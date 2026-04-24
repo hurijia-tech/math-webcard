@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>수학 아카이브</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Noto+Serif+KR:wght@600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      /* ── 3색 팔레트 ── */
+      --mint:          #c2dbc1;
+      --mint-dark:     #7aab78;
+      --mint-deeper:   #3d6b3c;
+      --mint-light:    #e8f4e8;
+
+      --purple:        #6c5070;
+      --purple-dark:   #4a3550;
+      --purple-light:  #f0eaf2;
+      --purple-mid:    #9b84a0;
+
+      --coral:         #df6a6a;
+      --coral-dark:    #c04f4f;
+      --coral-light:   #fdeaea;
+
+      /* ── 배경/서피스 ── */
+      --bg:            #f7f5f9;
+      --surface:       #ffffff;
+      --surface2:      #faf9fb;
+      --border:        #e4dfe8;
+      --border2:       #d0c8d5;
+
+      /* ── 텍스트 ── */
+      --text-primary:  #1e1624;
+      --text-secondary:#5a4d62;
+      --text-muted:    #9e8fa8;
+
+      --radius-card:   16px;
+      --radius-sm:     8px;
+      --shadow-card:   0 2px 12px rgba(108,80,112,0.08);
+      --shadow-hover:  0 8px 28px rgba(108,80,112,0.16);
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 28px 24px;
+      font-family: 'Noto Sans KR', sans-serif;
+      background: var(--bg); color: var(--text-primary);
+      min-height: 100vh;
+    }
+    .wrap { max-width: 1400px; margin: 0 auto; }
+
+    /* ── 헤더 ── */
+    .page-header {
+      display: flex; align-items: center; gap: 16px;
+      margin-bottom: 22px;
+      padding: 20px 24px;
+      background: linear-gradient(135deg, var(--purple-dark) 0%, var(--purple) 60%, #8b6090 100%);
+      border-radius: var(--radius-card);
+      box-shadow: 0 4px 20px rgba(74,53,80,0.25);
+    }
+    .header-icon {
+      width: 44px; height: 44px; border-radius: 12px;
+      background: rgba(194,219,193,0.25);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px; flex-shrink: 0;
+    }
+    .header-text h1 {
+      font-family: 'Noto Serif KR', serif;
+      font-size: 22px; font-weight: 700; margin: 0 0 2px;
+      color: white; letter-spacing: -0.3px;
+    }
+    .header-text p { font-size: 12px; color: rgba(194,219,193,0.75); margin: 0; }
+    .header-stats {
+      margin-left: auto; display: flex; gap: 16px; flex-shrink: 0;
+    }
+    .stat-item { text-align: center; }
+    .stat-num { font-size: 20px; font-weight: 900; color: var(--mint); display: block; }
+    .stat-label { font-size: 10px; color: rgba(255,255,255,0.5); }
+
+    /* ── AI 자연어 검색 패널 ── */
+    .ai-search-panel {
+      background: linear-gradient(135deg, var(--mint-deeper) 0%, var(--mint-dark) 100%);
+      border-radius: var(--radius-card);
+      border: 1.5px solid var(--mint);
+      padding: 18px 20px; margin-bottom: 14px;
+      display: flex; flex-direction: column; gap: 10px;
+    }
+    .ai-search-label {
+      font-size: 11px; font-weight: 700; color: rgba(194,219,193,0.85);
+      text-transform: uppercase; letter-spacing: 0.8px;
+      display: flex; align-items: center; gap: 6px;
+    }
+    .ai-badge {
+      background: var(--mint); color: var(--mint-deeper);
+      font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 4px;
+    }
+    .ai-search-row { display: flex; gap: 10px; align-items: center; }
+    .ai-search-input {
+      flex: 1; padding: 11px 16px;
+      background: rgba(194,219,193,0.12);
+      border: 1.5px solid rgba(194,219,193,0.35);
+      border-radius: var(--radius-sm);
+      font-size: 14px; font-family: inherit; color: white; outline: none; transition: all 0.2s;
+    }
+    .ai-search-input::placeholder { color: rgba(194,219,193,0.45); }
+    .ai-search-input:focus { background: rgba(194,219,193,0.2); border-color: var(--mint); }
+    .ai-search-btn {
+      padding: 11px 22px; background: var(--mint); color: var(--mint-deeper);
+      border: none; border-radius: var(--radius-sm);
+      font-size: 13px; font-weight: 700; cursor: pointer;
+      font-family: inherit; white-space: nowrap; transition: all 0.15s; flex-shrink: 0;
+    }
+    .ai-search-btn:hover { background: #d4ecd3; }
+    .ai-search-btn:disabled { background: rgba(194,219,193,0.3); color: rgba(255,255,255,0.4); cursor: not-allowed; }
+
+    .ai-result-box {
+      background: rgba(194,219,193,0.1); border: 1px solid rgba(194,219,193,0.3);
+      border-radius: var(--radius-sm); padding: 10px 14px;
+      font-size: 12px; color: rgba(255,255,255,0.9); line-height: 1.6; display: none;
+    }
+    .ai-result-box.visible { display: block; }
+    .ai-result-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+    .ai-thinking { display: flex; align-items: center; gap: 8px; color: rgba(194,219,193,0.7); font-size: 12px; }
+    .dots span {
+      display: inline-block; width: 5px; height: 5px;
+      background: var(--mint); border-radius: 50%;
+      animation: bounce 1.2s infinite ease-in-out;
+    }
+    .dots span:nth-child(2) { animation-delay: 0.2s; }
+    .dots span:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes bounce { 0%,80%,100%{transform:scale(0.7);opacity:0.4;} 40%{transform:scale(1);opacity:1;} }
+    .ai-clear-btn {
+      background: none; border: none; cursor: pointer;
+      color: rgba(194,219,193,0.5); font-size: 11px;
+      font-family: inherit; text-decoration: underline; flex-shrink: 0;
+    }
+    .ai-clear-btn:hover { color: var(--mint); }
+    .ai-examples { display: flex; gap: 8px; flex-wrap: wrap; }
+    .ai-chip {
+      background: rgba(194,219,193,0.12); color: rgba(194,219,193,0.8);
+      border: 1px solid rgba(194,219,193,0.25); border-radius: 999px;
+      padding: 4px 12px; font-size: 11px; cursor: pointer; transition: all 0.15s;
+    }
+    .ai-chip:hover { background: rgba(194,219,193,0.25); color: white; }
+
+    /* AI 배너 */
+    .ai-banner {
+      background: var(--mint-light); border: 1.5px solid var(--mint);
+      border-radius: var(--radius-sm); padding: 8px 14px;
+      font-size: 12px; color: var(--mint-deeper);
+      display: none; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 12px;
+    }
+    .ai-banner.visible { display: flex; }
+    .ai-banner button {
+      background: none; border: none; color: var(--mint-deeper);
+      font-size: 11px; cursor: pointer; font-family: inherit;
+      text-decoration: underline; padding: 0; flex-shrink: 0;
+    }
+
+    /* ── 필터 패널 ── */
+    .filter-panel {
+      background: var(--surface); border-radius: var(--radius-card);
+      border: 1px solid var(--border); box-shadow: var(--shadow-card);
+      padding: 16px 20px; margin-bottom: 18px;
+    }
+    .filter-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+    .filter-row + .filter-row { margin-top: 10px; }
+    .fg { display: flex; flex-direction: column; gap: 4px; min-width: 130px; flex: 1; }
+    .fg label { font-size: 10px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.6px; }
+    .fg select, .fg input {
+      padding: 8px 11px; border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+      font-size: 13px; font-family: inherit; background: var(--surface2); outline: none; cursor: pointer;
+      width: 100%; color: var(--text-primary); transition: border-color 0.15s;
+    }
+    .fg select:focus, .fg input:focus { border-color: var(--purple); background: white; }
+    .btn-reset {
+      padding: 8px 16px; background: var(--coral-light);
+      border: 1.5px solid #f0b8b8; border-radius: var(--radius-sm);
+      font-size: 13px; font-weight: 700; cursor: pointer;
+      color: var(--coral-dark); align-self: flex-end; white-space: nowrap;
+      font-family: inherit; transition: all 0.15s;
+    }
+    .btn-reset:hover { background: #fbd5d5; }
+
+    .result-info { font-size: 13px; color: var(--text-muted); margin-bottom: 16px; }
+    .result-info b { color: var(--text-primary); font-weight: 700; }
+
+    /* ── 카드 그리드 ── */
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 18px; }
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-card); overflow: hidden;
+      box-shadow: var(--shadow-card); display: flex; flex-direction: column;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+    .card.ai-matched { border-color: var(--mint-dark); box-shadow: 0 0 0 2px var(--mint), var(--shadow-card); }
+
+    .card-head {
+      display: flex; align-items: center; justify-content: space-between; gap: 8px;
+      padding: 11px 14px; border-bottom: 1px solid var(--border);
+      background: var(--surface2);
+    }
+    .card-id { font-family: 'JetBrains Mono', monospace; font-weight: 500; font-size: 12px; color: var(--text-secondary); }
+
+    .book-pill { font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 5px; white-space: nowrap; }
+    .book-유형해결의법칙 { background: var(--mint-light); color: var(--mint-deeper); }
+    .book-자이스토리     { background: var(--purple-light); color: var(--purple-dark); }
+    .book-바이블         { background: var(--coral-light); color: var(--coral-dark); }
+    .book-default        { background: #f1f0f3; color: var(--text-secondary); }
+
+    .status { display: inline-flex; align-items: center; gap: 3px; padding: 3px 8px; border-radius: 999px; font-size: 10px; font-weight: 700; white-space: nowrap; }
+    .status.pass  { background: var(--mint-light); color: var(--mint-deeper); }
+    .status.check { background: #fef3c7; color: #92400e; }
+    .status.fail  { background: var(--coral-light); color: var(--coral-dark); }
+
+    .card-meta {
+      padding: 6px 14px; font-size: 11px; color: var(--text-muted);
+      display: flex; gap: 6px; flex-wrap: wrap;
+      border-bottom: 1px solid var(--border); background: #fdfcfe;
+    }
+    .type-tag { background: var(--purple-light); color: var(--purple); padding: 2px 7px; border-radius: 4px; font-size: 10px; font-weight: 700; }
+    .diff-tag { background: var(--coral-light); color: var(--coral-dark); padding: 2px 7px; border-radius: 4px; font-size: 10px; font-weight: 700; }
+
+    .section { padding: 11px 14px; }
+    .section + .section { border-top: 1px solid #f3f0f5; }
+    .label-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px; }
+    .label { font-size: 11px; font-weight: 700; color: var(--text-muted); }
+    .hint  { font-size: 10px; color: var(--border2); }
+
+    .question-image { width: 100%; border-radius: 8px; border: 1px solid var(--border); background: #fafafa; display: block; cursor: zoom-in; }
+    .solution-image { width: 100%; margin-top: 8px; border-radius: 8px; border: 1px solid var(--border); cursor: zoom-in; }
+    .answer-box {
+      display: inline-flex; align-items: center; justify-content: center;
+      min-width: 52px; min-height: 34px; padding: 0 12px;
+      border-radius: 8px; background: var(--coral-light); color: var(--coral-dark);
+      font-size: 18px; font-weight: 800;
+    }
+    .solution-text { font-size: 13px; color: var(--text-primary); white-space: pre-wrap; min-height: 36px; line-height: 1.7; }
+    .empty { color: var(--text-muted); font-style: italic; font-size: 12px; }
+
+    .similar-scroll { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
+    .similar-scroll::-webkit-scrollbar { height: 5px; }
+    .similar-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 999px; }
+    .similar-item { min-width: 190px; max-width: 190px; flex-shrink: 0; border: 1px solid var(--border); border-radius: 8px; padding: 7px; background: var(--surface2); }
+    .similar-item img { width: 100%; border-radius: 5px; display: block; margin-bottom: 5px; cursor: zoom-in; }
+    .similar-id { font-size: 10px; color: var(--text-muted); text-align: center; }
+    .similar-empty { font-size: 12px; color: var(--text-muted); }
+
+    .modal { display: none; position: fixed; z-index: 9999; inset: 0; background: rgba(10,8,14,0.9); padding: 24px; }
+    .modal-inner { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; position: relative; }
+    .modal-img { max-width: min(1100px,92vw); max-height: 90vh; border-radius: 12px; box-shadow: 0 24px 60px rgba(0,0,0,0.5); }
+    .modal-close {
+      position: absolute; top: -4px; right: 0; transform: translateY(-100%);
+      background: rgba(255,255,255,0.15); color: white; border: 0; border-radius: 7px;
+      padding: 7px 14px; font-size: 13px; cursor: pointer; font-family: inherit; transition: background 0.15s;
+    }
+    .modal-close:hover { background: rgba(255,255,255,0.28); }
+    .empty-state { text-align: center; padding: 60px 20px; color: var(--text-muted); font-size: 15px; grid-column: 1/-1; }
+
+    @media (max-width: 720px) {
+      body { padding: 12px; }
+      .grid { grid-template-columns: 1fr; }
+      .similar-item { min-width: 160px; max-width: 160px; }
+      .header-stats { display: none; }
+      .ai-search-row { flex-direction: column; }
+      .ai-search-btn { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- ── 헤더 ── -->
+  <div class="page-header">
+    <div class="header-icon">📐</div>
+    <div class="header-text">
+      <h1>수학 아카이브</h1>
+      <p>교재 · 유형 · 난이도별 문제 검색 및 유사문제 연결</p>
+    </div>
+    <div class="header-stats" id="header-stats">
+      <div class="stat-item">
+        <span class="stat-num" id="stat-total">-</span>
+        <span class="stat-label">전체 문제</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num" style="color:var(--coral);" id="stat-books">-</span>
+        <span class="stat-label">교재 수</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── AI 자연어 검색 ── -->
+  <div class="ai-search-panel">
+    <div class="ai-search-label">
+      ✨ AI 자연어 검색
+      <span class="ai-badge">Claude AI</span>
+    </div>
+    <div class="ai-search-row">
+      <input class="ai-search-input" id="ai-input"
+        placeholder="예: 이등변삼각형 각도 구하는 문제, 바이블 어려운 문제, 외각의 이등분선..."
+        onkeydown="if(event.key==='Enter') aiSearch()" />
+      <button class="ai-search-btn" id="ai-btn" onclick="aiSearch()">🔍 검색</button>
+    </div>
+    <div class="ai-examples">
+      <span class="ai-chip" onclick="setExample(this)">이등변삼각형 성질</span>
+      <span class="ai-chip" onclick="setExample(this)">외각의 이등분선</span>
+      <span class="ai-chip" onclick="setExample(this)">바이블 어려운 문제</span>
+      <span class="ai-chip" onclick="setExample(this)">자이스토리 A유형</span>
+      <span class="ai-chip" onclick="setExample(this)">삼각형 넓이 구하기</span>
+    </div>
+    <div class="ai-result-box" id="ai-result-box">
+      <div class="ai-result-top">
+        <div id="ai-result-text"></div>
+        <button class="ai-clear-btn" onclick="clearAiSearch()">검색 해제</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- AI 배너 -->
+  <div class="ai-banner" id="ai-banner">
+    <span id="ai-banner-text">🤖 AI 검색 결과 표시 중</span>
+    <button onclick="clearAiSearch()">전체 보기로 돌아가기</button>
+  </div>
+
+  <!-- ── 필터 패널 ── -->
+  <div class="filter-panel">
+    <div class="filter-row">
+      <div class="fg" style="min-width:200px;">
+        <label>🔍 ID 검색</label>
+        <input type="text" id="f-search" placeholder="예: 바이블_0025, A14..." />
+      </div>
+      <div class="fg">
+        <label>교재</label>
+        <select id="f-book"><option value="">전체 교재</option></select>
+      </div>
+      <div class="fg">
+        <label>과정</label>
+        <select id="f-course"><option value="">전체 과정</option></select>
+      </div>
+      <div class="fg">
+        <label>대단원</label>
+        <select id="f-chapter"><option value="">전체 대단원</option></select>
+      </div>
+    </div>
+    <div class="filter-row">
+      <div class="fg">
+        <label>중단원</label>
+        <select id="f-sub"><option value="">전체 중단원</option></select>
+      </div>
+      <div class="fg" style="max-width:300px;">
+        <label>유형</label>
+        <select id="f-type"><option value="">전체 유형</option></select>
+      </div>
+      <div class="fg" style="max-width:130px;">
+        <label>난이도</label>
+        <select id="f-diff"><option value="">전체 난이도</option></select>
+      </div>
+      <div class="fg" style="max-width:140px;">
+        <label>검증 상태</label>
+        <select id="f-status">
+          <option value="">전체</option>
+          <option value="pass">✅ 검증 완료</option>
+          <option value="check">⚠️ 미검증</option>
+          <option value="fail">❗ 오류</option>
+        </select>
+      </div>
+      <button class="btn-reset" onclick="resetFilters()">↺ 초기화</button>
+    </div>
+  </div>
+
+  <div class="result-info" id="result-info"></div>
+  <div class="grid" id="cardGrid"></div>
+</div>
+
+<!-- 이미지 확대 모달 -->
+<div id="modal" class="modal">
+  <div class="modal-inner">
+    <button class="modal-close" id="modalClose">닫기 ✕</button>
+    <img class="modal-img" id="modalImg" alt="확대 이미지" />
+  </div>
+</div>
+
+<script>
+function fixImagePath(p) {
+  if (!p) return "";
+  if (p.includes("output_crops")) return p;
+  return p.replace(/^([^/]+)\/images\//, "$1/output_crops/images/");
+}
+
+let DATA = [];
+let AI_FILTERED_IDS = null;
+
+async function loadData() {
+  try {
+    const res = await fetch('./cards_data.json');
+    DATA = await res.json();
+  } catch { DATA = []; }
+  // 헤더 통계
+  document.getElementById("stat-total").textContent = DATA.length;
+  document.getElementById("stat-books").textContent = new Set(DATA.map(d => d.book)).size;
+  initFilters();
+  applyFilters();
+}
+
+function unique(arr) { return [...new Set(arr.filter(Boolean))].sort(); }
+
+function initFilters() {
+  const populate = (id, values) => {
+    const el = document.getElementById(id);
+    const cur = el.value;
+    el.innerHTML = `<option value="">전체</option>`;
+    values.forEach(v => el.innerHTML += `<option value="${v}">${v}</option>`);
+    if (cur) el.value = cur;
+  };
+  populate("f-book",    unique(DATA.map(d => d.book)));
+  populate("f-course",  unique(DATA.map(d => d.course)));
+  populate("f-chapter", unique(DATA.map(d => d.chapter)));
+  populate("f-sub",     unique(DATA.map(d => d.sub_chapter)));
+  populate("f-diff",    unique(DATA.map(d => d.difficulty).filter(d => d)));
+  populate("f-type",    unique(DATA.flatMap(d => d.type_tags || [])));
+}
+
+function getFilters() {
+  return {
+    search:  document.getElementById("f-search").value.trim().toLowerCase(),
+    book:    document.getElementById("f-book").value,
+    course:  document.getElementById("f-course").value,
+    chapter: document.getElementById("f-chapter").value,
+    sub:     document.getElementById("f-sub").value,
+    type:    document.getElementById("f-type").value,
+    diff:    document.getElementById("f-diff").value,
+    status:  document.getElementById("f-status").value,
+  };
+}
+
+function applyFilters() {
+  const f = getFilters();
+  const result = DATA.filter(d => {
+    if (AI_FILTERED_IDS && !AI_FILTERED_IDS.has(d.id))           return false;
+    if (f.search  && !d.id.toLowerCase().includes(f.search))      return false;
+    if (f.book    && d.book !== f.book)                           return false;
+    if (f.course  && d.course !== f.course)                       return false;
+    if (f.chapter && d.chapter !== f.chapter)                     return false;
+    if (f.sub     && d.sub_chapter !== f.sub)                     return false;
+    if (f.diff    && d.difficulty !== f.diff)                     return false;
+    if (f.status  && d.verification_status !== f.status)          return false;
+    if (f.type    && !(d.type_tags||[]).includes(f.type))         return false;
+    return true;
+  });
+  renderCards(result);
+}
+
+function resetFilters() {
+  ["f-search","f-book","f-course","f-chapter","f-sub","f-type","f-diff","f-status"]
+    .forEach(id => { document.getElementById(id).value = ""; });
+  applyFilters();
+}
+
+["f-search","f-book","f-course","f-chapter","f-sub","f-type","f-diff","f-status"]
+  .forEach(id => {
+    const el = document.getElementById(id);
+    el.addEventListener(el.tagName === "INPUT" ? "input" : "change", applyFilters);
+  });
+
+function setExample(el) {
+  document.getElementById("ai-input").value = el.textContent.trim();
+  aiSearch();
+}
+
+async function aiSearch() {
+  const query = document.getElementById("ai-input").value.trim();
+  if (!query) return;
+  const btn = document.getElementById("ai-btn");
+  const box = document.getElementById("ai-result-box");
+  const txt = document.getElementById("ai-result-text");
+  btn.disabled = true; btn.textContent = "검색 중...";
+  box.className = "ai-result-box visible";
+  txt.innerHTML = `<div class="ai-thinking">AI가 분석 중입니다 <div class="dots"><span></span><span></span><span></span></div></div>`;
+
+  const summary = DATA.map(d => ({
+    id: d.id, book: d.book,
+    chapter: d.sub_chapter || d.chapter,
+    type_tags: d.type_tags || [],
+    difficulty: d.difficulty || "",
+  }));
+
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        model: "claude-sonnet-4-20250514",
+        max_tokens: 1000,
+        messages: [{ role: "user", content:
+          `수학 문제은행 검색 도우미입니다. 아래 문제 목록에서 검색어에 맞는 문제 ID만 JSON 배열로 반환하세요. 설명 없이 JSON 배열만 반환하세요.\n\n검색어: "${query}"\n\n문제 목록:\n${JSON.stringify(summary)}`
+        }]
+      })
+    });
+    const data = await res.json();
+    const raw = data.content?.[0]?.text || "[]";
+    const ids = JSON.parse(raw.replace(/```json|```/g, "").trim());
+    if (!Array.isArray(ids) || ids.length === 0) {
+      txt.innerHTML = `😔 <b>"${query}"</b>에 맞는 문제를 찾지 못했습니다.`;
+      AI_FILTERED_IDS = new Set();
+      document.getElementById("ai-banner").className = "ai-banner";
+    } else {
+      AI_FILTERED_IDS = new Set(ids);
+      txt.innerHTML = `✅ <b>"${query}"</b> 검색 결과: <b>${ids.length}개</b> 문제`;
+      document.getElementById("ai-banner").className = "ai-banner visible";
+      document.getElementById("ai-banner-text").textContent = `🤖 AI 검색: "${query}" — ${ids.length}개 결과`;
+    }
+  } catch (err) {
+    txt.innerHTML = `❌ 오류: ${err.message}`;
+    AI_FILTERED_IDS = null;
+  }
+  btn.disabled = false; btn.textContent = "🔍 검색";
+  applyFilters();
+}
+
+function clearAiSearch() {
+  AI_FILTERED_IDS = null;
+  document.getElementById("ai-input").value = "";
+  document.getElementById("ai-result-box").className = "ai-result-box";
+  document.getElementById("ai-banner").className = "ai-banner";
+  applyFilters();
+}
+
+const statusIconMap  = { pass:"✅", check:"⚠️", fail:"❗" };
+const statusLabelMap = { pass:"검증 완료", check:"미검증", fail:"오류" };
+
+function bookPillClass(book) {
+  if (!book) return "book-default";
+  return "book-" + book.replace(/\s/g, "");
+}
+
+function renderCards(items) {
+  const grid = document.getElementById("cardGrid");
+  const info = document.getElementById("result-info");
+  const aiActive = AI_FILTERED_IDS !== null;
+  info.innerHTML = aiActive
+    ? `AI 검색 결과 <b>${items.length}개</b> 문제`
+    : `총 <b>${items.length}개</b> 문제`;
+  grid.innerHTML = "";
+  if (!items.length) {
+    grid.innerHTML = `<div class="empty-state">조건에 맞는 문제가 없습니다.</div>`;
+    return;
+  }
+  items.forEach(item => {
+    const typePills = (item.type_tags||[]).map(t => `<span class="type-tag">${t}</span>`).join("");
+    const diffPill  = item.difficulty ? `<span class="diff-tag">${item.difficulty}</span>` : "";
+    const answerHtml = item.answer
+      ? `<div class="answer-box">${item.answer}</div>`
+      : `<span class="empty">정답 미입력</span>`;
+    let solutionHtml = "";
+    if (item.solution) solutionHtml += `<div class="solution-text">${item.solution}</div>`;
+    if (item.solution_image) solutionHtml += `<img class="solution-image" src="${fixImagePath(item.solution_image)}" alt="해설" />`;
+    if (!item.solution && !item.solution_image) solutionHtml = `<span class="empty">해설 미입력</span>`;
+    const similarHtml = (item.similar||[]).length
+      ? (item.similar||[]).map(s => `
+          <div class="similar-item">
+            <img src="${fixImagePath(s.image)}" alt="${s.id}" />
+            <div class="similar-id">${s.id}</div>
+          </div>`).join("")
+      : `<span class="similar-empty">연결된 유사문제 없음</span>`;
+    const vs = item.verification_status || "check";
+    const card = document.createElement("article");
+    card.className = "card" + (aiActive ? " ai-matched" : "");
+    card.innerHTML = `
+      <div class="card-head">
+        <span class="card-id">${item.id}</span>
+        <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+          <span class="book-pill ${bookPillClass(item.book)}">${item.book||''}</span>
+          <span class="status ${vs}">${statusIconMap[vs]||'❔'} ${statusLabelMap[vs]||''}</span>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span>📂 ${item.sub_chapter||item.chapter||''}</span>
+        ${diffPill}${typePills}
+      </div>
+      <div class="section">
+        <div class="label-row">
+          <span class="label">문제</span>
+          <span class="hint">클릭해서 확대</span>
+        </div>
+        <img class="question-image" src="${fixImagePath(item.question_image)}" alt="${item.id}" />
+      </div>
+      <div class="section">
+        <div class="label">정답</div>
+        <div style="margin-top:6px;">${answerHtml}</div>
+      </div>
+      <div class="section">
+        <div class="label">해설</div>
+        <div style="margin-top:6px;">${solutionHtml}</div>
+      </div>
+      <div class="section">
+        <div class="label-row">
+          <span class="label">유사문제</span>
+          <span class="hint">좌우로 스크롤</span>
+        </div>
+        <div class="similar-scroll">${similarHtml}</div>
+      </div>`;
+    grid.appendChild(card);
+  });
+}
+
+const modal    = document.getElementById("modal");
+const modalImg = document.getElementById("modalImg");
+document.addEventListener("click", e => {
+  if (e.target.classList.contains("question-image") ||
+      e.target.classList.contains("solution-image") ||
+      (e.target.closest(".similar-item") && e.target.tagName === "IMG")) {
+    modalImg.src = e.target.src;
+    modal.style.display = "block";
+  }
+});
+document.getElementById("modalClose").onclick = closeModal;
+modal.addEventListener("click", e => { if (e.target === modal) closeModal(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+function closeModal() { modal.style.display = "none"; modalImg.src = ""; }
+
+loadData();
+</script>
+</body>
+</html>

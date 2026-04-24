@@ -1,0 +1,72 @@
+[
+  {
+    "id": "유형법칙_p001_1062",
+
+    "book":        "유형해결의 법칙",
+    "course":      "중등수학 3-1",
+    "chapter":     "Ⅲ. 이차함수",
+    "sub_chapter": "01. 이차함수의 그래프(1)",
+    "type_tags":   ["유형 03 이차함수 y=ax²의 그래프"],
+    "difficulty":  "중",
+
+    "question_image":   "유형법칙/images/p001_1062.png",
+    "answer":           "③",
+    "solution":         "",
+    "solution_image":   "유형법칙/solutions/p001_1062.png",
+
+    "verification_status": "pass",
+    "verification_text":   "검증 완료",
+
+    "similar": [
+      { "id": "유형법칙_p001_1063", "image": "유형법칙/images/p001_1063.png" },
+      { "id": "자이스토리_A22",     "image": "자이스토리/images/p010_A22.png" },
+      { "id": "바이블_BIB_0025",    "image": "바이블/images/p012_q0025.png"  }
+    ]
+  },
+
+  {
+    "id": "자이스토리_A22",
+
+    "book":        "자이스토리",
+    "course":      "중등수학 2-2",
+    "chapter":     "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags":   ["유형 03 이등변삼각형의 성질을 이용하여 각의 크기 구하기"],
+    "difficulty":  "☆☆",
+
+    "question_image":   "자이스토리/images/p010_A22.png",
+    "answer":           "",
+    "solution":         "",
+    "solution_image":   "",
+
+    "verification_status": "check",
+    "verification_text":   "부분 확인",
+
+    "similar": [
+      { "id": "바이블_BIB_0025", "image": "바이블/images/p012_q0025.png" }
+    ]
+  },
+
+  {
+    "id": "바이블_BIB_0025",
+
+    "book":        "바이블",
+    "course":      "중등수학 2-2",
+    "chapter":     "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags":   ["유형 03 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"],
+    "difficulty":  "대표",
+
+    "question_image":   "바이블/images/p012_q0025.png",
+    "answer":           "⑤ 120°",
+    "solution":         "",
+    "solution_image":   "",
+
+    "verification_status": "check",
+    "verification_text":   "부분 확인",
+
+    "similar": [
+      { "id": "자이스토리_A22", "image": "자이스토리/images/p010_A22.png" }
+    ]
+  }
+]

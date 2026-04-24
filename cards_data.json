@@ -1,0 +1,4996 @@
+﻿[
+  {
+    "id": "바이블_0001",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p007_q0001.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0002",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p007_q0002.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0003",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p007_q0003.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0004",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p007_q0004.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0005",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p007_q0005.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0006",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p007_q0006.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0007",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p009_q0007.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0008",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p009_q0008.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0009",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p009_q0009.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0010",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p009_q0010.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0011",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p009_q0011.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0012",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p009_q0012.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0013",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p009_q0013.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0014",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p010_q0014.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0015",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p010_q0015.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0016",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p010_q0016.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0017",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p010_q0017.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0018",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p010_q0018.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0019",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p011_q0019.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0020",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p011_q0020.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0021",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p011_q0021.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0022",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p011_q0022.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0023",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p011_q0023.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0024",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p011_q0024.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0025",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p012_q0025.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0026",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p012_q0026.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0027",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p012_q0027.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0028",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p012_q0028.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0029",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p012_q0029.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0030",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p012_q0030.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0031",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p012_q0031.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0032",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p013_q0032.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0033",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p013_q0033.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0034",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p013_q0034.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0035",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p013_q0035.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0036",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p013_q0036.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0037",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p013_q0037.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0038",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p014_q0038.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0039",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p014_q0039.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0040",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p014_q0040.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0041",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p014_q0041.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0042",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p014_q0042.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0043",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p014_q0043.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0044",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p015_q0044.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0045",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p015_q0045.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0046",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p015_q0046.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0047",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p015_q0047.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0048",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p015_q0048.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0049",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p015_q0049.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0050",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p016_q0050.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0051",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p016_q0051.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0052",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p016_q0052.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0053",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p016_q0053.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0054",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p016_q0054.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0055",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p016_q0055.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0056",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p016_q0056.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0057",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p017_q0057.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0058",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p017_q0058.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0059",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p017_q0059.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0060",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p017_q0060.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0061",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p017_q0061.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0062",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p017_q0062.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0063",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p018_q0063.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0064",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p018_q0064.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0065",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p018_q0065.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0066",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p018_q0066.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0067",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p018_q0067.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0068",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p018_q0068.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0069",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p019_q0069.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0070",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p019_q0070.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0071",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p019_q0071.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0072",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p019_q0072.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0073",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p019_q0073.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0074",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p020_q0074.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0075",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p020_q0075.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0076",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p020_q0076.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0077",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p020_q0077.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0078",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p020_q0078.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0079",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p020_q0079.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0080",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p021_q0080.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0081",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p021_q0081.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0082",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p021_q0082.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0083",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p021_q0083.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0084",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p021_q0084.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0085",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p021_q0085.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0086",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p022_q0086.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0087",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p022_q0087.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0088",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p022_q0088.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0089",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p022_q0089.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0090",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p022_q0090.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0091",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p022_q0091.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0092",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p022_q0092.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0093",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p023_q0093.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0094",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p023_q0094.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0095",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p023_q0095.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0096",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p023_q0096.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0097",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p023_q0097.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0098",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p023_q0098.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0099",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p024_q0099.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0100",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p024_q0100.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0101",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p024_q0101.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0102",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p024_q0102.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0103",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p024_q0103.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0104",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p024_q0104.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0105",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p025_q0105.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0106",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p025_q0106.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0107",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p025_q0107.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0108",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p025_q0108.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0109",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p025_q0109.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0110",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p025_q0110.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0111",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p025_q0111.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0112",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p026_q0112.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0113",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p026_q0113.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0114",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p026_q0114.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0115",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p026_q0115.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0116",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p026_q0116.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "바이블_0117",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p026_q0117.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A14",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p012_A14.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A15",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p012_A15.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A16",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p012_A16.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A17",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p012_A17.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A18",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p012_A18.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A19",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p013_A19.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A20",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p013_A20.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A21",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p013_A21.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A22",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p013_A22.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A23",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p013_A23.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A24",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p013_A24.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A25",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p014_A25.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A26",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p014_A26.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A27",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p014_A27.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A28",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p014_A28.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A29",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p014_A29.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A30",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p014_A30.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A31",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p015_A31.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A32",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p015_A32.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A33",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p015_A33.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A34",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p015_A34.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A35",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p015_A35.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A36",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 여러 가지 도형에의 활용"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p016_A36.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A37",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 여러 가지 도형에의 활용"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p016_A37.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A38",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p016_A38.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A39",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p016_A39.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A40",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p016_A40.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A41",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p016_A41.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A42",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p016_A42.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A43",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p017_A43.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A44",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p017_A44.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A45",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p017_A45.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A46",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p017_A46.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A47",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p017_A47.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A48",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p018_A48.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A49",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p018_A49.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A50",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p018_A50.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A51",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p018_A51.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A52",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p018_A52.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A53",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p018_A53.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A54",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p019_A54.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A55",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p019_A55.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A56",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p019_A56.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A57",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p019_A57.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A58",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p019_A58.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A59",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p019_A59.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A60",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p019_A60.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A61",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p020_A61.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A62",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p020_A62.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A63",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p020_A63.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A64",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p020_A64.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A65",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p021_A65.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A66",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p021_A66.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A67",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p021_A67.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A68",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p021_A68.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A69",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p021_A69.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A70",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p021_A70.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A71",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p022_A71.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A72",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p022_A72.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A73",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p022_A73.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A74",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p022_A74.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A75",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p022_A75.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A76",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p023_A76.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A77",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p023_A77.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A78",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p023_A78.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A79",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p023_A79.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A80",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p023_A80.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A81",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A81.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A82",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A82.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A83",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A83.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A84",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A84.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A85",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A85.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A86",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A86.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A87",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A87.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A88",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p024_A88.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A89",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A89.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A90",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A90.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A91",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A91.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A92",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A92.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A93",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A93.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A94",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A94.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A95",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A95.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "자이스토리_A96",
+    "book": "자이스토리",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 각의 이등분선의 성질 - 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "자이스토리/output_crops/images/p025_A96.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0011",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p001_q0011.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0012",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p001_q0012.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0013",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p001_q0013.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0014",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p001_q0014.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0015",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형01. 이등변삼각형의 성질에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p001_q0015.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0016",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p002_q0016.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0017",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p002_q0017.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0018",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p002_q0018.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0019",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p002_q0019.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0020",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p002_q0020.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0021",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p002_q0021.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0022",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p003_q0022.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0023",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p003_q0023.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0024",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p003_q0024.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0025",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p003_q0025.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0026",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p003_q0026.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0027",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p003_q0027.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0028",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p004_q0028.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0029",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p004_q0029.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0030",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p004_q0030.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0031",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p004_q0031.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0032",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p004_q0032.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0033",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p004_q0033.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0034",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p005_q0034.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0035",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p005_q0035.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0036",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p005_q0036.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0037",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p005_q0037.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0038",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p005_q0038.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0039",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p006_q0039.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0040",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p006_q0040.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0041",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p006_q0041.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0042",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p006_q0042.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0043",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p006_q0043.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0044",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p006_q0044.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0045",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p007_q0045.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0046",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p007_q0046.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0047",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p007_q0047.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0048",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p007_q0048.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0049",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p007_q0049.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0050",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p007_q0050.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0057",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p008_q0057.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0058",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p008_q0058.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0059",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p008_q0059.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0060",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p008_q0060.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0061",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 직사각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p009_q0061.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0062",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 직사각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p009_q0062.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0063",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 직사각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p009_q0063.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0064",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 직사각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p009_q0064.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0065",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형09. 직사각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p009_q0065.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0066",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p009_q0066.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0067",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p010_q0067.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0068",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p010_q0068.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0069",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p010_q0069.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0070",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p010_q0070.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0071",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형10. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p010_q0071.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0072",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p011_q0072.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0073",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p011_q0073.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0074",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p011_q0074.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0075",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p011_q0075.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0076",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p011_q0076.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0077",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p011_q0077.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0078",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p012_q0078.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0079",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p012_q0079.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0080",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p012_q0080.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0081",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p012_q0081.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0082",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p012_q0082.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0083",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p012_q0083.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0084",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p013_q0084.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0085",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p013_q0085.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0086",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p013_q0086.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0087",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p013_q0087.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0088",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p013_q0088.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0089",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p013_q0089.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0090",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질 ⑴"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p014_q0090.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0091",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p014_q0091.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0092",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형16. 각의 이등분선의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p014_q0092.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0093",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형16. 각의 이등분선의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p014_q0093.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0094",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형16. 각의 이등분선의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p014_q0094.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  },
+  {
+    "id": "유형법칙_0095",
+    "book": "유형해결의법칙",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형16. 각의 이등분선의 성질 ⑵"
+    ],
+    "difficulty": "",
+    "question_image": "유형해결의법칙/output_crops/images/p014_q0095.png",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "verification_status": "check",
+    "verification_text": "미검증",
+    "similar": []
+  }
+]
