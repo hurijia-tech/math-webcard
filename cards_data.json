@@ -6,7 +6,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p007_q0001.png",
@@ -25,7 +25,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p007_q0002.png",
@@ -44,7 +44,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p007_q0003.png",
@@ -63,7 +63,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p007_q0004.png",
@@ -82,7 +82,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p007_q0005.png",
@@ -101,7 +101,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p007_q0006.png",
@@ -120,7 +120,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p009_q0007.png",
@@ -139,7 +139,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p009_q0008.png",
@@ -158,7 +158,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p009_q0009.png",
@@ -177,7 +177,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+      "유형14. 각의 이등분선의 성질"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p009_q0010.png",
@@ -196,7 +196,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+      "유형14. 각의 이등분선의 성질"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p009_q0011.png",
@@ -214,7 +214,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p009_q0012.png",
     "answer": "",
@@ -232,7 +234,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+      "유형14. 각의 이등분선의 성질"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p009_q0013.png",
@@ -270,7 +272,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+      "유형01. 이등변삼각형의 성질"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p010_q0015.png",
@@ -346,7 +348,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p011_q0019.png",
@@ -365,7 +367,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p011_q0020.png",
@@ -384,7 +386,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p011_q0021.png",
@@ -403,7 +405,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p011_q0022.png",
@@ -422,7 +424,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p011_q0023.png",
@@ -441,7 +443,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p011_q0024.png",
@@ -460,7 +462,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p012_q0025.png",
@@ -479,7 +481,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p012_q0026.png",
@@ -498,7 +500,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p012_q0027.png",
@@ -517,7 +519,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p012_q0028.png",
@@ -536,7 +538,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p012_q0029.png",
@@ -555,7 +557,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p012_q0030.png",
@@ -574,7 +576,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p012_q0031.png",
@@ -593,7 +595,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p013_q0032.png",
@@ -611,7 +613,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p013_q0033.png",
     "answer": "",
@@ -629,7 +633,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질 ⑵"
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p013_q0034.png",
@@ -648,7 +652,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p013_q0035.png",
@@ -667,7 +671,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p013_q0036.png",
@@ -686,7 +690,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질 ⑵"
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p013_q0037.png",
@@ -704,7 +708,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p014_q0038.png",
     "answer": "",
@@ -722,7 +728,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질 ⑵"
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p014_q0039.png",
@@ -741,7 +747,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질 ⑵"
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p014_q0040.png",
@@ -760,7 +766,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질 ⑵"
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p014_q0041.png",
@@ -779,7 +785,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질 ⑵"
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p014_q0042.png",
@@ -798,7 +804,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질 ⑵"
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p014_q0043.png",
@@ -817,7 +823,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p015_q0044.png",
@@ -836,7 +842,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p015_q0045.png",
@@ -855,7 +861,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p015_q0046.png",
@@ -874,7 +880,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p015_q0047.png",
@@ -893,7 +899,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p015_q0048.png",
@@ -931,7 +937,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p016_q0050.png",
@@ -950,7 +956,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p016_q0051.png",
@@ -969,7 +975,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p016_q0052.png",
@@ -1007,7 +1013,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p016_q0054.png",
@@ -1026,7 +1032,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p016_q0055.png",
@@ -1045,7 +1051,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p016_q0056.png",
@@ -1064,7 +1070,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p017_q0057.png",
@@ -1083,7 +1089,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 이등변삼각형 모양의 종이접기"
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p017_q0058.png",
@@ -1102,7 +1108,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 이등변삼각형 모양의 종이접기"
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p017_q0059.png",
@@ -1121,7 +1127,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 이등변삼각형 모양의 종이접기"
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p017_q0060.png",
@@ -1140,7 +1146,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 이등변삼각형 모양의 종이접기"
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p017_q0061.png",
@@ -1197,7 +1203,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형09. 이등변삼각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p018_q0064.png",
@@ -1235,7 +1241,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 이등변삼각형 모양의 종이접기"
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p018_q0066.png",
@@ -1253,7 +1259,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p018_q0067.png",
     "answer": "",
@@ -1270,7 +1278,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형11. 직각삼각형의 합동 조건"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p018_q0068.png",
     "answer": "",
@@ -1288,7 +1298,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p019_q0069.png",
@@ -1307,7 +1317,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p019_q0070.png",
@@ -1326,7 +1336,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p019_q0071.png",
@@ -1345,7 +1355,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p019_q0072.png",
@@ -1364,7 +1374,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p019_q0073.png",
@@ -1383,7 +1393,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 직각삼각형의 합동 조건"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p020_q0074.png",
@@ -1402,7 +1412,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 직각삼각형의 합동 조건"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p020_q0075.png",
@@ -1421,7 +1431,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 직각삼각형의 합동 조건"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p020_q0076.png",
@@ -1440,7 +1450,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 직각삼각형의 합동 조건"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p020_q0077.png",
@@ -1459,7 +1469,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 직각삼각형의 합동 조건"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p020_q0078.png",
@@ -1478,7 +1488,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 직각삼각형의 합동 조건"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p020_q0079.png",
@@ -1496,7 +1506,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p021_q0080.png",
     "answer": "",
@@ -1513,7 +1525,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p021_q0081.png",
     "answer": "",
@@ -1531,7 +1545,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p021_q0082.png",
@@ -1550,7 +1564,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 직각삼각형의 합동 조건"
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p021_q0083.png",
@@ -1569,7 +1583,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p021_q0084.png",
@@ -1587,7 +1601,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형14. 각의 이등분선의 성질"
+    ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p021_q0085.png",
     "answer": "",
@@ -1605,7 +1621,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+      "유형14. 각의 이등분선의 성질"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p022_q0086.png",
@@ -1624,7 +1640,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+      "유형14. 각의 이등분선의 성질"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p022_q0087.png",
@@ -1643,7 +1659,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+      "유형15. 각의 이등분선의 성질의 응용"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p022_q0088.png",
@@ -1662,7 +1678,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+      "유형15. 각의 이등분선의 성질의 응용"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p022_q0089.png",
@@ -1681,7 +1697,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+      "유형15. 각의 이등분선의 성질의 응용"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p022_q0090.png",
@@ -1700,7 +1716,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+      "유형15. 각의 이등분선의 성질의 응용"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p022_q0091.png",
@@ -1719,7 +1735,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+      "유형15. 각의 이등분선의 성질의 응용"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p022_q0092.png",
@@ -1757,7 +1773,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p023_q0094.png",
@@ -1795,7 +1811,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p023_q0096.png",
@@ -1814,7 +1830,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p023_q0097.png",
@@ -1833,7 +1849,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p023_q0098.png",
@@ -1852,7 +1868,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p024_q0099.png",
@@ -1871,7 +1887,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p024_q0100.png",
@@ -1890,7 +1906,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 각의 이등분선의 성질"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p024_q0101.png",
@@ -1909,7 +1925,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p024_q0102.png",
@@ -1928,7 +1944,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+      "유형07. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p024_q0103.png",
@@ -1947,7 +1963,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+      "유형08. 이등변삼각형이 되는 조건 – 종이접기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p024_q0104.png",
@@ -1966,7 +1982,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 각의 이등분선의 성질"
+      "유형09. 이등변삼각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p025_q0105.png",
@@ -1985,7 +2001,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 각의 이등분선의 성질"
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p025_q0106.png",
@@ -2004,7 +2020,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 각의 이등분선의 성질"
+      "유형06. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p025_q0107.png",
@@ -2023,7 +2039,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 각의 이등분선의 성질"
+      "유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p025_q0108.png",
@@ -2042,7 +2058,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 각의 이등분선의 성질"
+      "유형11. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p025_q0109.png",
@@ -2061,7 +2077,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 각의 이등분선의 성질"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p025_q0110.png",
@@ -2080,7 +2096,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질의 응용"
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p025_q0111.png",
@@ -2099,7 +2115,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질의 응용"
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p026_q0112.png",
@@ -2118,7 +2134,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질의 응용"
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p026_q0113.png",
@@ -2137,7 +2153,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질의 응용"
+      "유형14. 각의 이등분선의 성질"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p026_q0114.png",
@@ -2175,7 +2191,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질의 응용"
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
     ],
     "difficulty": "",
     "question_image": "바이블/output_crops/images/p026_q0116.png",
@@ -2308,7 +2324,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p013_A19.png",
@@ -2441,7 +2457,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p014_A26.png",
@@ -2460,7 +2476,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p014_A27.png",
@@ -2479,7 +2495,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p014_A28.png",
@@ -2498,7 +2514,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p014_A29.png",
@@ -2517,7 +2533,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
+      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p014_A30.png",
@@ -2536,7 +2552,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+      "유형05. 여러 가지 도형에의 활용"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p015_A31.png",
@@ -2555,7 +2571,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+      "유형05. 여러 가지 도형에의 활용"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p015_A32.png",
@@ -2574,7 +2590,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+      "유형05. 여러 가지 도형에의 활용"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p015_A33.png",
@@ -2593,7 +2609,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+      "유형06. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p015_A34.png",
@@ -2612,7 +2628,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 밑각의 이등분선 (고난도)"
+      "유형06. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p015_A35.png",
@@ -2631,7 +2647,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 여러 가지 도형에의 활용"
+      "유형06. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p016_A36.png",
@@ -2650,7 +2666,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 여러 가지 도형에의 활용"
+      "유형06. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p016_A37.png",
@@ -2707,7 +2723,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형이 되는 조건"
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p016_A40.png",
@@ -2726,7 +2742,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형이 되는 조건"
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p016_A41.png",
@@ -2745,7 +2761,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형이 되는 조건"
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p016_A42.png",
@@ -2764,7 +2780,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형이 되는 조건"
+      "유형08. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p017_A43.png",
@@ -2783,7 +2799,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형이 되는 조건"
+      "유형08. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p017_A44.png",
@@ -2802,7 +2818,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형이 되는 조건"
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p017_A45.png",
@@ -2821,7 +2837,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형08. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p017_A46.png",
@@ -2840,7 +2856,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형08. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p017_A47.png",
@@ -2859,7 +2875,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p018_A48.png",
@@ -2878,7 +2894,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p018_A49.png",
@@ -2897,7 +2913,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p018_A50.png",
@@ -2916,7 +2932,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p018_A51.png",
@@ -2935,7 +2951,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p018_A52.png",
@@ -2954,7 +2970,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p018_A53.png",
@@ -2973,7 +2989,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p019_A54.png",
@@ -2992,7 +3008,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형12. 각의 이등분선의 성질 - 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p019_A55.png",
@@ -3011,7 +3027,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p019_A56.png",
@@ -3030,7 +3046,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p019_A57.png",
@@ -3049,7 +3065,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p019_A58.png",
@@ -3068,7 +3084,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형12. 각의 이등분선의 성질 - 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p019_A59.png",
@@ -3087,7 +3103,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형12. 각의 이등분선의 성질 - 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p019_A60.png",
@@ -3106,7 +3122,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p020_A61.png",
@@ -3125,7 +3141,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형01. 이등변삼각형의 성질 ⑴ - 밑각의 크기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p020_A62.png",
@@ -3144,7 +3160,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p020_A63.png",
@@ -3163,7 +3179,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p020_A64.png",
@@ -3182,7 +3198,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p021_A65.png",
@@ -3201,7 +3217,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 폭이 일정한 종이 접기 (고난도)"
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p021_A66.png",
@@ -3220,7 +3236,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p021_A67.png",
@@ -3239,7 +3255,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p021_A68.png",
@@ -3258,7 +3274,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형05. 여러 가지 도형에의 활용"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p021_A69.png",
@@ -3277,7 +3293,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p021_A70.png",
@@ -3296,7 +3312,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p022_A71.png",
@@ -3315,7 +3331,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p022_A72.png",
@@ -3334,7 +3350,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p022_A73.png",
@@ -3353,7 +3369,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p022_A74.png",
@@ -3372,7 +3388,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p022_A75.png",
@@ -3391,7 +3407,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p023_A76.png",
@@ -3410,7 +3426,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p023_A77.png",
@@ -3429,7 +3445,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p023_A78.png",
@@ -3448,7 +3464,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p023_A79.png",
@@ -3467,7 +3483,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형12. 각의 이등분선의 성질 - 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p023_A80.png",
@@ -3486,7 +3502,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A81.png",
@@ -3505,7 +3521,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A82.png",
@@ -3524,7 +3540,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A83.png",
@@ -3543,7 +3559,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 직각삼각형의 합동 조건"
+      "유형03. 이등변삼각형의 성질을 이용하여 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A84.png",
@@ -3562,7 +3578,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
+      "유형06. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A85.png",
@@ -3581,7 +3597,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+      "유형06. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A86.png",
@@ -3600,7 +3616,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A87.png",
@@ -3619,7 +3635,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+      "유형07. 폭이 일정한 종이 접기 (고난도)"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p024_A88.png",
@@ -3638,7 +3654,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 직각삼각형의 합동 조건의 응용 - RHS 합동"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p025_A89.png",
@@ -3657,7 +3673,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p025_A90.png",
@@ -3676,7 +3692,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p025_A91.png",
@@ -3695,7 +3711,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
+      "유형09. 직각삼각형의 합동 조건의 응용 - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p025_A92.png",
@@ -3771,7 +3787,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 각의 이등분선의 성질 - 각의 크기 구하기"
+      "유형11. 각의 이등분선의 성질 - 변의 길이 구하기"
     ],
     "difficulty": "",
     "question_image": "자이스토리/output_crops/images/p025_A96.png",
@@ -3828,7 +3844,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질에 대한 설명"
+      "유형02. 이등변삼각형의 성질 ⑴"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p001_q0013.png",
@@ -3847,7 +3863,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질에 대한 설명"
+      "유형02. 이등변삼각형의 성질 ⑴"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p001_q0014.png",
@@ -3866,7 +3882,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형01. 이등변삼각형의 성질에 대한 설명"
+      "유형02. 이등변삼각형의 성질 ⑴"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p001_q0015.png",
@@ -3884,7 +3900,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴"
+    ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p002_q0016.png",
     "answer": "",
@@ -3940,7 +3958,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴"
+      "유형03. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p002_q0019.png",
@@ -3959,7 +3977,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴"
+      "유형03. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p002_q0020.png",
@@ -3978,7 +3996,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형02. 이등변삼각형의 성질 ⑴"
+      "유형03. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p002_q0021.png",
@@ -3997,7 +4015,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑵"
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p003_q0022.png",
@@ -4016,7 +4034,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑵"
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p003_q0023.png",
@@ -4034,7 +4052,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+    ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p003_q0024.png",
     "answer": "",
@@ -4052,7 +4072,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑵"
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p003_q0025.png",
@@ -4071,7 +4091,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑵"
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p003_q0026.png",
@@ -4090,7 +4110,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형03. 이등변삼각형의 성질 ⑵"
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p003_q0027.png",
@@ -4109,7 +4129,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p004_q0028.png",
@@ -4128,7 +4148,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p004_q0029.png",
@@ -4146,7 +4166,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+    ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p004_q0030.png",
     "answer": "",
@@ -4164,7 +4186,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p004_q0031.png",
@@ -4183,7 +4205,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p004_q0032.png",
@@ -4202,7 +4224,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
+      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p004_q0033.png",
@@ -4221,7 +4243,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p005_q0034.png",
@@ -4240,7 +4262,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p005_q0035.png",
@@ -4259,7 +4281,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+      "유형08. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p005_q0036.png",
@@ -4277,7 +4299,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형08. 이등변삼각형이 되는 조건"
+    ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p005_q0037.png",
     "answer": "",
@@ -4295,7 +4319,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+      "유형08. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p005_q0038.png",
@@ -4314,7 +4338,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
+      "유형08. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p006_q0039.png",
@@ -4333,7 +4357,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+      "유형08. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p006_q0040.png",
@@ -4352,7 +4376,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+      "유형08. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p006_q0041.png",
@@ -4371,7 +4395,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+      "유형09. 직사각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p006_q0042.png",
@@ -4390,7 +4414,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+      "유형09. 직사각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p006_q0043.png",
@@ -4409,7 +4433,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형06. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형"
+      "유형09. 직사각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p006_q0044.png",
@@ -4428,7 +4452,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+      "유형09. 직사각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p007_q0045.png",
@@ -4447,7 +4471,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+      "유형10. 이등변삼각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p007_q0046.png",
@@ -4466,7 +4490,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+      "유형10. 이등변삼각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p007_q0047.png",
@@ -4485,7 +4509,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p007_q0048.png",
@@ -4504,7 +4528,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형07. 이등변삼각형이 되는 조건에 대한 설명"
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p007_q0049.png",
@@ -4523,7 +4547,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건"
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p007_q0050.png",
@@ -4542,7 +4566,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건"
+      "유형12. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p008_q0057.png",
@@ -4561,7 +4585,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건"
+      "유형12. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p008_q0058.png",
@@ -4580,7 +4604,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건"
+      "유형12. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p008_q0059.png",
@@ -4599,7 +4623,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형08. 이등변삼각형이 되는 조건"
+      "유형12. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p008_q0060.png",
@@ -4618,7 +4642,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 직사각형 모양의 종이접기"
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p009_q0061.png",
@@ -4637,7 +4661,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 직사각형 모양의 종이접기"
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p009_q0062.png",
@@ -4656,7 +4680,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 직사각형 모양의 종이접기"
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p009_q0063.png",
@@ -4675,7 +4699,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 직사각형 모양의 종이접기"
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p009_q0064.png",
@@ -4694,7 +4718,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형09. 직사각형 모양의 종이접기"
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p009_q0065.png",
@@ -4713,7 +4737,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 이등변삼각형 모양의 종이접기"
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p009_q0066.png",
@@ -4731,7 +4755,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+    ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p010_q0067.png",
     "answer": "",
@@ -4749,7 +4775,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 이등변삼각형 모양의 종이접기"
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p010_q0068.png",
@@ -4768,7 +4794,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p010_q0069.png",
@@ -4787,7 +4813,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 이등변삼각형 모양의 종이접기"
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p010_q0070.png",
@@ -4806,7 +4832,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형10. 이등변삼각형 모양의 종이접기"
+      "유형15. 각의 이등분선의 성질 ⑴"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p010_q0071.png",
@@ -4825,7 +4851,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형15. 각의 이등분선의 성질 ⑴"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p011_q0072.png",
@@ -4844,7 +4870,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건"
+      "유형16. 각의 이등분선의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p011_q0073.png",
@@ -4863,7 +4889,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건"
+      "유형16. 각의 이등분선의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p011_q0074.png",
@@ -4882,7 +4908,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형16. 각의 이등분선의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p011_q0075.png",
@@ -4901,7 +4927,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
+      "유형16. 각의 이등분선의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p011_q0076.png",
@@ -4920,7 +4946,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건"
+      "유형16. 각의 이등분선의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p011_q0077.png",
@@ -4939,7 +4965,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형12. 직각삼각형의 합동 조건"
+      "유형01. 이등변삼각형의 성질에 대한 설명"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p012_q0078.png",
@@ -4958,7 +4984,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+      "유형02. 이등변삼각형의 성질 ⑴"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p012_q0079.png",
@@ -4977,7 +5003,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+      "유형03. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p012_q0080.png",
@@ -4996,7 +5022,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+      "유형03. 이등변삼각형의 성질 ⑵"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p012_q0081.png",
@@ -5015,7 +5041,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+      "유형04. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p012_q0082.png",
@@ -5034,7 +5060,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+      "유형05. 이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p012_q0083.png",
@@ -5053,7 +5079,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+      "유형08. 이등변삼각형이 되는 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p013_q0084.png",
@@ -5072,7 +5098,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+      "유형09. 직사각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p013_q0085.png",
@@ -5091,7 +5117,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질 ⑴"
+      "유형10. 이등변삼각형 모양의 종이접기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p013_q0086.png",
@@ -5110,7 +5136,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p013_q0087.png",
@@ -5129,7 +5155,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질 ⑴"
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p013_q0088.png",
@@ -5148,7 +5174,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질 ⑴"
+      "유형11. 합동인 삼각형을 찾아 각의 크기 구하기"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p013_q0089.png",
@@ -5167,7 +5193,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형15. 각의 이등분선의 성질 ⑴"
+      "유형12. 직각삼각형의 합동 조건"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p014_q0090.png",
@@ -5185,7 +5211,9 @@
     "course": "중등수학 2-2",
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
-    "type_tags": [],
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동"
+    ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p014_q0091.png",
     "answer": "",
@@ -5203,7 +5231,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형16. 각의 이등분선의 성질 ⑵"
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p014_q0092.png",
@@ -5222,7 +5250,7 @@
     "chapter": "Ⅰ. 삼각형의 성질",
     "sub_chapter": "01. 삼각형의 성질(1)",
     "type_tags": [
-      "유형16. 각의 이등분선의 성질 ⑵"
+      "유형14. 직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동"
     ],
     "difficulty": "",
     "question_image": "유형해결의법칙/output_crops/images/p014_q0093.png",

@@ -151,72 +151,97 @@ def extract_bible(lines: list[str], id_prefix: str, q_min: int, q_max: int) -> l
 
 
 # ════════════════════════════════════════════════
-# 유형해결의법칙
-# 목차 패턴: "필수유형\n\n01\n\n유형명" (줄 분리)
-# 문제번호: "0011" 단독 줄
+# 유형해결의법칙 (유형명 하드코딩 + 정확한 문제번호 매핑)
 # ════════════════════════════════════════════════
-def extract_yuhyung(lines: list[str], id_prefix: str, q_min: int, q_max: int) -> list[dict]:
-    # 유형해결의법칙 유형명 (PDF에서 직접 확인한 내용으로 고정)
-    YUHYUNG_NAMES = {
-        1:  "이등변삼각형의 성질에 대한 설명",
-        2:  "이등변삼각형의 성질 ⑴",
-        3:  "이등변삼각형의 성질 ⑵",
-        4:  "이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형",
-        5:  "이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선",
-        6:  "이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형",
-        7:  "이등변삼각형이 되는 조건에 대한 설명",
-        8:  "이등변삼각형이 되는 조건",
-        9:  "직사각형 모양의 종이접기",
-        10: "이등변삼각형 모양의 종이접기",
-        11: "합동인 삼각형을 찾아 각의 크기 구하기",
-        12: "직각삼각형의 합동 조건",
-        13: "직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동",
-        14: "직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동",
-        15: "각의 이등분선의 성질 ⑴",
-        16: "각의 이등분선의 성질 ⑵",
-    }
-    type_names = YUHYUNG_NAMES.copy()
 
-    print(f"  📋 유형 {len(type_names)}개 (고정 목록 사용)")
+YUHYUNG_NAMES = {
+    1:  "이등변삼각형의 성질에 대한 설명",
+    2:  "이등변삼각형의 성질 ⑴",
+    3:  "이등변삼각형의 성질 ⑵",
+    4:  "이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑴ - 이웃한 이등변삼각형",
+    5:  "이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑵ - 각의 이등분선",
+    6:  "이등변삼각형의 성질을 이용하여 각의 크기 구하기 ⑶ - 여러 가지 도형",
+    7:  "이등변삼각형이 되는 조건에 대한 설명",
+    8:  "이등변삼각형이 되는 조건",
+    9:  "직사각형 모양의 종이접기",
+    10: "이등변삼각형 모양의 종이접기",
+    11: "합동인 삼각형을 찾아 각의 크기 구하기",
+    12: "직각삼각형의 합동 조건",
+    13: "직각삼각형의 합동 조건의 활용 ⑴ - RHA 합동",
+    14: "직각삼각형의 합동 조건의 활용 ⑵ - RHS 합동",
+    15: "각의 이등분선의 성질 ⑴",
+    16: "각의 이등분선의 성질 ⑵",
+}
+
+# 유형별 정확한 문제번호 매핑
+# 구성: STEP2(유형마스터) + STEP3(내신마스터) 분산 배치
+YUHYUNG_QMAP = {
+    1:  ["0011", "0012",                                    # STEP2
+         "0078",                                            # STEP3
+        ],
+    2:  ["0013", "0014", "0015", "0016", "0017", "0018",   # STEP2
+         "0079",                                            # STEP3
+        ],
+    3:  ["0019", "0020", "0021",                           # STEP2
+         "0080", "0081",                                    # STEP3
+        ],
+    4:  ["0022", "0023", "0024", "0025", "0026",           # STEP2
+         "0082",                                            # STEP3
+        ],
+    5:  ["0027", "0028",                                    # STEP2
+         "0083",                                            # STEP3
+        ],
+    6:  ["0029", "0030", "0031", "0032", "0033",           # STEP2
+        ],
+    7:  ["0034", "0035",                                    # STEP2
+        ],
+    8:  ["0036", "0037", "0038", "0039", "0040", "0041",   # STEP2
+         "0084",                                            # STEP3
+        ],
+    9:  ["0042", "0043", "0044", "0045",                   # STEP2
+         "0085",                                            # STEP3
+        ],
+    10: ["0046", "0047",                                    # STEP2
+         "0086",                                            # STEP3
+        ],
+    11: ["0048", "0049", "0050",                           # STEP2
+         "0087", "0088", "0089",                           # STEP3
+        ],
+    12: ["0057", "0058", "0059", "0060",                   # STEP2
+         "0090",                                            # STEP3
+        ],
+    13: ["0061", "0062", "0063", "0064", "0065", "0066",   # STEP2
+         "0091",                                            # STEP3
+        ],
+    14: ["0067", "0068", "0069", "0070",                   # STEP2
+         "0092", "0093",                                    # STEP3
+        ],
+    15: ["0071", "0072",                                    # STEP2
+        ],
+    16: ["0073", "0074", "0075", "0076", "0077",           # STEP2
+         "0094", "0095",                                    # STEP3
+        ],
+}
+
+
+def extract_yuhyung(lines: list[str], id_prefix: str, q_min: int, q_max: int) -> list[dict]:
+    type_names = dict(YUHYUNG_NAMES)
+    print(f"  📋 유형 {len(type_names)}개 (하드코딩)")
     for k in sorted(type_names):
         print(f"     유형{k:02d}. {type_names[k]}")
 
-    if not type_names:
-        return []
-
-    # 문제번호 순서대로 수집 후 균등 배분 (바이블과 동일 방식)
-    qnum_re = re.compile(r'^(0\d{3})\s*[●◆\s]')
-    all_q   = []
-    seen_q  = set()
-    for line in lines:
-        m = qnum_re.match(line)
-        if m:
-            q = m.group(1)
-            n = int(q)
-            if q_min <= n <= q_max and q not in seen_q:
-                all_q.append(q)
-                seen_q.add(q)
-
-    print(f"  📝 문제번호 {len(all_q)}개 수집")
-
-    # 균등 배분
-    type_list = sorted(type_names.items())
-    total_q   = len(all_q)
-    total_t   = len(type_list)
-    base      = total_q // total_t
-    remainder = total_q % total_t
-
     mappings = []
-    idx = 0
-    for t_idx, (num, name) in enumerate(type_list):
-        count     = base + (1 if t_idx < remainder else 0)
-        questions = [id_prefix + q for q in all_q[idx:idx + count]]
-        idx      += count
+    total = 0
+    for num in sorted(type_names):
+        questions = [id_prefix + q for q in YUHYUNG_QMAP.get(num, [])]
+        total += len(questions)
         mappings.append({
             "type_num":  num,
-            "type_name": f"유형{num:02d}. {name}",
+            "type_name": f"유형{num:02d}. {type_names[num]}",
             "questions": questions,
         })
+
+    print(f"  📝 총 {total}개 문제 배분 완료 (YUHYUNG_QMAP 정확한 매핑)")
     return mappings
 
 
