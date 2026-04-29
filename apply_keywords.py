@@ -1,5 +1,6 @@
 # apply_keywords.py
 # keyword_mappings/ 의 JSON을 읽어 cards_data.json에 keywords 필드 적용
+# ★ 교재명_번호 조합으로 매핑 (번호만으로 매핑하면 교재간 충돌 발생)
 
 import json
 import os
@@ -15,9 +16,17 @@ KEYWORD_LABEL_MAP = {
     "창의사고력": "창의/사고력"
 }
 
+# keyword_mappings 파일명과 cards_data.json의 book 필드 매핑
+BOOK_NAME_MAP = {
+    "바이블": "바이블",
+    "유형해결의법칙": "유형해결의법칙",
+    "자이스토리": "자이스토리"
+}
+
 def load_keyword_mappings():
-    """keyword_mappings/ 폴더에서 교재별 키워드 매핑 로드"""
-    # 문제ID → 키워드 리스트 딕셔너리로 변환
+    """keyword_mappings/ 폴더에서 교재별 키워드 매핑 로드
+    반환: { "바이블_0017": ["서술형", ...], "유형해결의법칙_0017": ["서술형"], ... }
+    """
     id_to_keywords = {}
 
     for filename in os.listdir(KEYWORD_MAPPINGS_DIR):
@@ -28,16 +37,19 @@ def load_keyword_mappings():
         with open(filepath, "r", encoding="utf-8-sig") as f:
             mapping = json.load(f)
 
+        # 파일명에서 교재명 추출: "바이블_keywords.json" → "바이블"
         book_name = filename.replace("_keywords.json", "")
         print(f"📂 로드: {book_name}")
 
         for kw_key, id_list in mapping.items():
             label = KEYWORD_LABEL_MAP.get(kw_key, kw_key)
-            for problem_id in id_list:
-                if problem_id not in id_to_keywords:
-                    id_to_keywords[problem_id] = []
-                if label not in id_to_keywords[problem_id]:
-                    id_to_keywords[problem_id].append(label)
+            for problem_num in id_list:
+                # ★ 핵심: 교재명_번호 조합으로 키 생성
+                composite_key = f"{book_name}_{problem_num}"
+                if composite_key not in id_to_keywords:
+                    id_to_keywords[composite_key] = []
+                if label not in id_to_keywords[composite_key]:
+                    id_to_keywords[composite_key].append(label)
 
     return id_to_keywords
 
@@ -51,25 +63,27 @@ def apply_keywords():
 
     # 키워드 매핑 로드
     id_to_keywords = load_keyword_mappings()
-    print(f"🔑 키워드 매핑된 문제 수: {len(id_to_keywords)}개\n")
+    print(f"🔑 키워드 매핑 항목 수: {len(id_to_keywords)}개\n")
 
     # keywords 필드 적용
     updated_count = 0
     for card in cards:
         card_id = card.get("id", "")
+        book = card.get("book", "")
 
-        # ID에서 숫자/문자 부분만 추출
-        # 예: "바이블_0014" → "0014"
-        # 예: "자이스토리_A14" → "A14"
-        # 예: "유형해결의법칙_0011" → "0011"
+        # ID에서 번호 부분 추출
+        # 예: "바이블_0017" → "0017"
+        # 예: "자이스토리_A17" → "A17"
         parts = card_id.split("_")
         problem_num = parts[-1] if len(parts) > 1 else card_id
 
-        if problem_num in id_to_keywords:
-            card["keywords"] = id_to_keywords[problem_num]
+        # ★ 교재명_번호 조합으로 키 생성
+        composite_key = f"{book}_{problem_num}"
+
+        if composite_key in id_to_keywords:
+            card["keywords"] = id_to_keywords[composite_key]
             updated_count += 1
         else:
-            # 키워드 없는 문제는 빈 리스트 유지
             if "keywords" not in card:
                 card["keywords"] = []
 
@@ -88,6 +102,11 @@ def apply_keywords():
             kw_counts[kw] = kw_counts.get(kw, 0) + 1
     for kw, cnt in sorted(kw_counts.items()):
         print(f"  [{kw}]: {cnt}개")
+
+
+if __name__ == "__main__":
+    apply_keywords()
+
 
 
 if __name__ == "__main__":
