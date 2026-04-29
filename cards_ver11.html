@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>수학 아카이브</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;900&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+  <style>
+    :root {
+      --mint:         #c2dbc1;
+      --mint-dark:    #7aab78;
+      --mint-deeper:  #3d6b3c;
+      --mint-light:   #e8f4e8;
+      --purple:       #6c5070;
+      --purple-dark:  #4a3550;
+      --purple-light: #f0eaf2;
+      --coral:        #df6a6a;
+      --coral-dark:   #c04f4f;
+      --coral-light:  #fdeaea;
+      --bg:           #f4f2f7;
+      --surface:      #ffffff;
+      --surface2:     #faf9fb;
+      --border:       #e4dfe8;
+      --border2:      #d0c8d5;
+      --text-primary:   #1e1624;
+      --text-secondary: #5a4d62;
+      --text-muted:     #9e8fa8;
+      --font: 'Pretendard', 'Noto Sans KR', sans-serif;
+      --radius-card: 16px;
+      --radius-sm:   8px;
+      --shadow-card:  0 2px 12px rgba(108,80,112,0.08);
+      --shadow-hover: 0 8px 28px rgba(108,80,112,0.16);
+    }
+    * { box-sizing: border-box; }
+    body { margin:0; padding:28px 24px; font-family:var(--font); background:var(--bg); color:var(--text-primary); min-height:100vh; }
+    .wrap { max-width:1400px; margin:0 auto; }
+
+    /* ── 헤더 ── */
+    .page-header {
+      display:flex; align-items:center; gap:16px;
+      margin-bottom:20px; padding:18px 24px;
+      background:var(--surface); border-radius:var(--radius-card);
+      border:1px solid var(--border); box-shadow:var(--shadow-card);
+    }
+    .header-logo { width:48px; height:48px; border-radius:12px; background:#f0eaf2; display:flex; align-items:center; justify-content:center; font-size:26px; flex-shrink:0; }
+    .header-title-area { flex:1; }
+    .header-title-row { display:flex; align-items:center; gap:8px; margin-bottom:3px; }
+    .header-title-row h1 { font-size:22px; font-weight:800; margin:0; color:var(--text-primary); letter-spacing:-0.5px; }
+    .archive-badge { background:var(--purple); color:white; font-size:9px; font-weight:700; padding:2px 7px; border-radius:4px; letter-spacing:1px; }
+    .header-title-area p { font-size:12px; color:var(--text-muted); margin:0; }
+    .header-stats { display:flex; gap:10px; flex-shrink:0; }
+    .stat-box { display:flex; flex-direction:column; align-items:center; justify-content:center; padding:10px 18px; border-radius:12px; min-width:84px; }
+    .stat-box.purple { background:var(--purple-light); border:1.5px solid #d8cede; }
+    .stat-box.coral  { background:var(--coral-light);  border:1.5px solid #f5c5c5; }
+    .stat-num { font-size:26px; font-weight:900; line-height:1; letter-spacing:-1px; margin-bottom:3px; }
+    .stat-box.purple .stat-num { color:var(--purple); }
+    .stat-box.coral  .stat-num { color:var(--coral-dark); }
+    .stat-label { font-size:10px; font-weight:600; color:var(--text-muted); }
+
+    /* ── AI 검색 패널 ── */
+    .ai-search-panel {
+      background:linear-gradient(135deg, var(--purple-dark) 0%, var(--purple) 100%);
+      border-radius:var(--radius-card); border:1.5px solid #9b84a0;
+      padding:18px 20px; margin-bottom:14px;
+      display:flex; flex-direction:column; gap:10px;
+    }
+    .ai-search-label { font-size:11px; font-weight:700; color:rgba(255,255,255,0.7); text-transform:uppercase; letter-spacing:0.8px; display:flex; align-items:center; gap:6px; }
+    .ai-badge { background:rgba(255,255,255,0.2); color:white; font-size:9px; font-weight:700; padding:2px 7px; border-radius:4px; letter-spacing:0.5px; }
+    .ai-search-row { display:flex; gap:10px; align-items:center; }
+    .ai-search-input { flex:1; padding:11px 16px; background:rgba(255,255,255,0.12); border:1.5px solid rgba(255,255,255,0.25); border-radius:var(--radius-sm); font-size:14px; font-family:var(--font); color:white; outline:none; transition:all 0.2s; }
+    .ai-search-input::placeholder { color:rgba(255,255,255,0.4); }
+    .ai-search-input:focus { background:rgba(255,255,255,0.18); border-color:rgba(255,255,255,0.6); }
+    .ai-search-btn { padding:11px 22px; background:white; color:var(--purple-dark); border:none; border-radius:var(--radius-sm); font-size:13px; font-weight:700; cursor:pointer; font-family:var(--font); white-space:nowrap; transition:all 0.15s; flex-shrink:0; }
+    .ai-search-btn:hover { background:#f0eaf2; }
+    .ai-search-btn:disabled { background:rgba(255,255,255,0.25); color:rgba(255,255,255,0.5); cursor:not-allowed; }
+    .ai-result-box { background:rgba(255,255,255,0.1); border:1px solid rgba(255,255,255,0.2); border-radius:var(--radius-sm); padding:10px 14px; font-size:12px; color:rgba(255,255,255,0.9); line-height:1.6; display:none; }
+    .ai-result-box.visible { display:block; }
+    .ai-result-top { display:flex; justify-content:space-between; align-items:flex-start; gap:10px; }
+    .ai-thinking { display:flex; align-items:center; gap:8px; color:rgba(255,255,255,0.6); font-size:12px; }
+    .dots span { display:inline-block; width:5px; height:5px; background:white; border-radius:50%; animation:bounce 1.2s infinite ease-in-out; }
+    .dots span:nth-child(2) { animation-delay:0.2s; }
+    .dots span:nth-child(3) { animation-delay:0.4s; }
+    @keyframes bounce { 0%,80%,100%{transform:scale(0.7);opacity:0.4;} 40%{transform:scale(1);opacity:1;} }
+    .ai-clear-btn { background:none; border:none; cursor:pointer; color:rgba(255,255,255,0.45); font-size:11px; font-family:var(--font); text-decoration:underline; flex-shrink:0; }
+    .ai-clear-btn:hover { color:rgba(255,255,255,0.8); }
+    .ai-examples { display:flex; gap:8px; flex-wrap:wrap; }
+    .ai-chip { background:rgba(255,255,255,0.1); color:rgba(255,255,255,0.75); border:1px solid rgba(255,255,255,0.2); border-radius:999px; padding:4px 12px; font-size:11px; cursor:pointer; transition:all 0.15s; font-family:var(--font); }
+    .ai-chip:hover { background:rgba(255,255,255,0.2); color:white; }
+    .ai-banner { background:var(--purple-light); border:1.5px solid #c5b0cc; border-radius:var(--radius-sm); padding:8px 14px; font-size:12px; color:var(--purple-dark); display:none; align-items:center; justify-content:space-between; gap:10px; margin-bottom:12px; }
+    .ai-banner.visible { display:flex; }
+    .ai-banner button { background:none; border:none; color:var(--purple-dark); font-size:11px; cursor:pointer; font-family:var(--font); text-decoration:underline; padding:0; flex-shrink:0; }
+
+    /* ── 필터 패널 ── */
+    .filter-panel { background:var(--surface); border-radius:var(--radius-card); border:1px solid var(--border); box-shadow:var(--shadow-card); padding:16px 20px; margin-bottom:18px; }
+    .filter-row { display:flex; gap:10px; flex-wrap:nowrap; align-items:flex-end; width:100%; }
+    .filter-row + .filter-row { margin-top:10px; }
+    .fg { display:flex; flex-direction:column; gap:4px; min-width:100px; flex:1; }
+    .fg label { font-size:10px; font-weight:700; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.6px; }
+    .fg select { padding:8px 11px; border:1.5px solid var(--border); border-radius:var(--radius-sm); font-size:13px; font-family:var(--font); background:var(--surface2); outline:none; cursor:pointer; width:100%; color:var(--text-primary); transition:border-color 0.15s; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%239e8fa8' d='M6 8L1 3h10z'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 10px center; padding-right:28px; }
+    .fg select:focus { border-color:var(--purple); background-color:white; }
+    .btn-reset { padding:8px 16px; background:var(--coral-light); border:1.5px solid #f0b8b8; border-radius:var(--radius-sm); font-size:13px; font-weight:700; cursor:pointer; color:var(--coral-dark); align-self:flex-end; white-space:nowrap; font-family:var(--font); transition:all 0.15s; }
+    .btn-reset:hover { background:#fbd5d5; }
+
+    .result-info { font-size:13px; color:var(--text-muted); margin-bottom:16px; }
+    .result-info b { color:var(--text-primary); font-weight:700; }
+
+    /* ── 카드 그리드 ── */
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:18px; }
+
+    /* ── 카드 ── */
+    .card {
+      background:var(--surface); border:1px solid var(--border);
+      border-radius:var(--radius-card); overflow:hidden;
+      box-shadow:var(--shadow-card); display:flex; flex-direction:column;
+      transition:box-shadow 0.2s, transform 0.2s;
+    }
+    .card:hover { box-shadow:var(--shadow-hover); transform:translateY(-2px); }
+    .card.ai-matched { border-color:var(--purple); box-shadow:0 0 0 2px var(--purple-light), var(--shadow-card); }
+
+    .card-row1 {
+      display:flex; align-items:center; justify-content:space-between; gap:8px;
+      padding:10px 14px; border-bottom:1px solid var(--border); background:var(--surface2);
+    }
+    .card-subchapter { font-size:12px; font-weight:600; color:var(--text-secondary); display:flex; align-items:center; gap:5px; }
+    .card-subchapter::before { content:'📂'; font-size:11px; }
+    .book-pill { font-size:10px; font-weight:700; padding:3px 9px; border-radius:5px; white-space:nowrap; }
+    .book-유형해결의법칙 { background:var(--mint-light); color:var(--mint-deeper); }
+    .book-자이스토리     { background:var(--purple-light); color:var(--purple-dark); }
+    .book-바이블         { background:var(--coral-light); color:var(--coral-dark); }
+    .book-default        { background:#f1f0f3; color:var(--text-secondary); }
+
+    .card-row2 {
+      display:flex; align-items:center; gap:6px; flex-wrap:wrap;
+      padding:6px 14px; border-bottom:1px solid var(--border); background:#fdfcfe;
+    }
+    .type-tag { background:var(--purple-light); color:var(--purple); padding:2px 7px; border-radius:4px; font-size:10px; font-weight:700; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .diff-tag { background:var(--coral-light); color:var(--coral-dark); padding:3px 10px; border-radius:999px; font-size:11px; font-weight:800; white-space:nowrap; border:1.5px solid #f0b8b8; }
+    .card-row2-empty { display:none; }
+
+    .card-img-wrap { padding:12px 14px; }
+    .card-img-label { font-size:11px; font-weight:700; color:var(--text-muted); margin-bottom:7px; display:flex; justify-content:space-between; }
+    .card-img-label span { font-size:10px; color:var(--border2); }
+    .question-image { width:100%; border-radius:8px; border:none; background:transparent; display:block; cursor:zoom-in; }
+
+    .card-btns { display:flex; flex-direction:column; gap:0; border-top:1px solid var(--border); }
+    .card-btn {
+      display:flex; align-items:center; justify-content:center; gap:7px;
+      padding:11px 14px; font-size:13px; font-weight:600; font-family:var(--font);
+      cursor:pointer; border:none; background:transparent; width:100%;
+      transition:background 0.15s; border-top:1px solid var(--border);
+      color:var(--text-secondary);
+    }
+    .card-btn:first-child { border-top:none; }
+    .card-btn.btn-answer  { color:var(--mint-deeper); }
+    .card-btn.btn-answer:hover  { background:var(--mint-light); }
+    .card-btn.btn-solution { color:#7a6020; }
+    .card-btn.btn-solution:hover { background:#fffbef; }
+    .card-btn.btn-similar { color:var(--purple); }
+    .card-btn.btn-similar:hover { background:var(--purple-light); }
+
+    .expand-panel {
+      max-height:0; overflow:hidden;
+      transition:max-height 0.3s ease, padding 0.3s ease;
+      border-top:0px solid var(--border);
+    }
+    .expand-panel.open {
+      max-height:600px;
+      border-top:1px solid var(--border);
+    }
+    .expand-inner { padding:12px 14px; }
+    .expand-label { font-size:11px; font-weight:700; color:var(--text-muted); margin-bottom:8px; display:flex; align-items:center; gap:5px; }
+    .expand-text { font-size:13px; color:var(--text-primary); line-height:1.7; white-space:pre-wrap; }
+    .expand-img { width:100%; border-radius:8px; border:1px solid var(--border); margin-top:6px; cursor:zoom-in; }
+    .empty-text { color:var(--text-muted); font-style:italic; font-size:12px; }
+
+    /* ── 유사문제 팝업 ── */
+    .similar-overlay {
+      display:none; position:fixed; inset:0;
+      background:rgba(10,8,14,0.75); z-index:9000;
+      align-items:center; justify-content:center; padding:24px;
+    }
+    .similar-overlay.open { display:flex; }
+    .similar-popup {
+      background:var(--bg); border-radius:var(--radius-card);
+      width:85%; max-width:1200px; max-height:90vh;
+      display:flex; flex-direction:column;
+      box-shadow:0 24px 60px rgba(0,0,0,0.4);
+      overflow:hidden;
+    }
+    .similar-popup-head {
+      display:flex; align-items:center; justify-content:space-between;
+      padding:16px 22px; background:var(--surface);
+      border-bottom:1px solid var(--border); flex-shrink:0;
+    }
+    .similar-popup-head h3 { margin:0; font-size:16px; font-weight:800; color:var(--text-primary); }
+    .similar-popup-head p { margin:4px 0 0; font-size:12px; color:var(--text-muted); }
+    .similar-close {
+      background:none; border:none; cursor:pointer; font-size:20px;
+      color:var(--text-muted); padding:4px 8px; border-radius:8px;
+      transition:background 0.15s; font-family:var(--font);
+    }
+    .similar-close:hover { background:var(--border); }
+    .similar-popup-body { overflow-y:auto; padding:20px; flex:1; }
+    .similar-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:16px; }
+
+    .mini-card {
+      background:var(--surface); border:1px solid var(--border);
+      border-radius:var(--radius-card); overflow:hidden;
+      box-shadow:var(--shadow-card); display:flex; flex-direction:column;
+      transition:box-shadow 0.15s;
+    }
+    .mini-card:hover { box-shadow:var(--shadow-hover); }
+    .mini-card .card-row1 { padding:8px 12px; }
+    .mini-card .card-row2 { padding:5px 12px; }
+    .mini-card .card-img-wrap { padding:10px 12px; }
+    .mini-card .card-btns .card-btn { padding:9px 12px; font-size:12px; }
+
+    .similarity-badge {
+      background:linear-gradient(135deg, var(--purple-dark), var(--purple));
+      color:white; font-size:10px; font-weight:700;
+      padding:2px 8px; border-radius:999px; white-space:nowrap;
+    }
+
+    .origin-preview {
+      background:var(--surface); border:2px solid var(--purple);
+      border-radius:var(--radius-card); padding:14px 18px;
+      margin-bottom:18px; display:flex; align-items:center; gap:14px;
+    }
+    .origin-preview img { width:160px; border-radius:8px; border:1px solid var(--border); cursor:zoom-in; flex-shrink:0; }
+    .origin-preview-info { flex:1; }
+    .origin-preview-info .label { font-size:10px; font-weight:700; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:4px; }
+    .origin-preview-info .val { font-size:13px; color:var(--text-primary); font-weight:600; }
+
+    .img-modal { display:none; position:fixed; z-index:9999; inset:0; background:rgba(10,8,14,0.92); padding:24px; }
+    .img-modal.open { display:flex; align-items:center; justify-content:center; }
+    .img-modal-inner { position:relative; }
+    .img-modal img { max-width:min(1100px,92vw); max-height:90vh; border-radius:12px; box-shadow:0 24px 60px rgba(0,0,0,0.5); display:block; }
+    .img-modal-close { position:absolute; top:-4px; right:0; transform:translateY(-100%); background:rgba(255,255,255,0.15); color:white; border:0; border-radius:7px; padding:7px 14px; font-size:13px; cursor:pointer; font-family:var(--font); }
+    .img-modal-close:hover { background:rgba(255,255,255,0.28); }
+
+    .toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%) translateY(80px); background:var(--purple-dark); color:white; padding:10px 20px; border-radius:999px; font-size:13px; font-weight:600; box-shadow:0 4px 20px rgba(0,0,0,0.2); transition:transform 0.3s ease; z-index:9998; pointer-events:none; }
+    .toast.show { transform:translateX(-50%) translateY(0); }
+
+    .empty-state { text-align:center; padding:60px 20px; color:var(--text-muted); font-size:15px; grid-column:1/-1; }
+
+    /* ── 키워드 필터 버튼 ── */
+    .keyword-btn-group { display:flex; gap:7px; flex-wrap:wrap; }
+    .kw-btn {
+      padding:6px 13px; border-radius:999px; font-size:12px; font-weight:700;
+      font-family:var(--font); cursor:pointer; transition:all 0.15s;
+      border:1.5px solid var(--border2); background:var(--surface2);
+      color:var(--text-secondary); white-space:nowrap;
+    }
+    .kw-btn:hover { filter:brightness(0.95); }
+    .kw-btn[data-kw="대표문제"].active    { background:#6c5070; border-color:#4a3550; color:white; }
+    .kw-btn[data-kw="서술형"].active      { background:#e8f5e9; border-color:#43a047; color:#2e7d32; }
+    .kw-btn[data-kw="잘틀리는문제"].active { background:#fff3e0; border-color:#ef6c00; color:#e65100; }
+    .kw-btn[data-kw="고난도"].active      { background:#fce4ec; border-color:#e91e63; color:#880e4f; }
+    .kw-btn[data-kw="창의/사고력"].active  { background:#e8eaf6; border-color:#3949ab; color:#1a237e; }
+
+    /* ── 카드 키워드 뱃지 ── */
+    .kw-badges { display:flex; gap:5px; flex-wrap:wrap; padding:5px 14px 0; }
+    .kw-badge {
+      font-size:10px; font-weight:700; padding:2px 8px;
+      border-radius:999px; white-space:nowrap;
+    }
+    .kw-badge-대표문제    { background:#6c5070; color:white; border:1px solid #4a3550; }
+    .kw-badge-서술형      { background:#e8f5e9; color:#2e7d32; border:1px solid #43a047; }
+    .kw-badge-잘틀리는문제 { background:#fff3e0; color:#e65100; border:1px solid #ef6c00; }
+    .kw-badge-고난도      { background:#fce4ec; color:#880e4f; border:1px solid #e91e63; }
+    .kw-badge-창의사고력   { background:#e8eaf6; color:#1a237e; border:1px solid #3949ab; }
+
+    @media (max-width:768px) {
+      body { padding:12px; }
+      .grid { grid-template-columns:1fr; }
+      .header-stats { display:none; }
+      .ai-search-row { flex-direction:column; }
+      .ai-search-btn { width:100%; }
+      .filter-row { flex-wrap:wrap; }
+      .similar-popup { width:95%; }
+    }
+  </style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- ── 헤더 ── -->
+  <div class="page-header">
+    <div class="header-logo">📁</div>
+    <div class="header-title-area">
+      <div class="header-title-row">
+        <h1>수학 아카이브</h1>
+        <span class="archive-badge">ARCHIVE</span>
+      </div>
+      <p>교재 · 단원 · 유형 · 난이도별 문항 검색 및 유사문제 매칭 시스템</p>
+    </div>
+    <div class="header-stats">
+      <div class="stat-box coral">
+        <div class="stat-num" id="stat-books">—</div>
+        <div class="stat-label">교재 수</div>
+      </div>
+      <div class="stat-box purple">
+        <div class="stat-num" id="stat-total">—</div>
+        <div class="stat-label">전체 문항 수</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── AI 자연어 검색 ── -->
+  <div class="ai-search-panel">
+    <div class="ai-search-label">🌟 AI 자연어 검색 <span class="ai-badge">CLAUDE AI</span></div>
+    <div class="ai-search-row">
+      <input class="ai-search-input" id="ai-input"
+        placeholder="예) 이등변삼각형 각도 구하는 문제, 셴 어려운 문제, 외각의 이등분선 ..."
+        onkeydown="if(event.key==='Enter') aiSearch()" />
+      <button class="ai-search-btn" id="ai-btn" onclick="aiSearch()">🔍 검색</button>
+    </div>
+    <div class="ai-examples">
+      <span class="ai-chip" onclick="setExample(this)">이등변삼각형 성질</span>
+      <span class="ai-chip" onclick="setExample(this)">외각의 이등분선</span>
+      <span class="ai-chip" onclick="setExample(this)">셴에서 어려운 문제</span>
+      <span class="ai-chip" onclick="setExample(this)">바이블 대표유형</span>
+      <span class="ai-chip" onclick="setExample(this)">삼각형 넓이 구하기</span>
+    </div>
+    <div class="ai-result-box" id="ai-result-box">
+      <div class="ai-result-top">
+        <div id="ai-result-text"></div>
+        <button class="ai-clear-btn" onclick="clearAiSearch()">검색 해제</button>
+      </div>
+    </div>
+  </div>
+  <div class="ai-banner" id="ai-banner">
+    <span id="ai-banner-text">AI 검색 결과 표시 중</span>
+    <button onclick="clearAiSearch()">전체 보기로 돌아가기</button>
+  </div>
+
+  <!-- ── 필터 패널 ── -->
+  <div class="filter-panel">
+    <div class="filter-row">
+      <div class="fg"><label>교재</label><select id="f-book"><option value="">전체</option></select></div>
+      <div class="fg"><label>과정</label><select id="f-course"><option value="">전체</option></select></div>
+      <div class="fg"><label>대단원명</label><select id="f-chapter"><option value="">전체</option></select></div>
+      <div class="fg"><label>중단원명</label><select id="f-sub"><option value="">전체</option></select></div>
+    </div>
+    <div class="filter-row">
+      <div class="fg" style="flex:1;"><label>유형</label><select id="f-type"><option value="">전체</option></select></div>
+      <div class="fg" style="flex:0 0 120px;"><label>난이도</label><select id="f-diff"><option value="">전체</option></select></div>
+      <button class="btn-reset" onclick="resetFilters()">↺ 초기화</button>
+    </div>
+    <div class="filter-row" style="margin-top:12px;">
+      <div class="fg" style="flex:none;">
+        <label>키워드 필터</label>
+        <div class="keyword-btn-group">
+          <button class="kw-btn" data-kw="대표문제"    onclick="toggleKeyword(this)">⭐ 대표문제</button>
+          <button class="kw-btn" data-kw="서술형"      onclick="toggleKeyword(this)">✏️ 서술형</button>
+          <button class="kw-btn" data-kw="잘틀리는문제" onclick="toggleKeyword(this)">⚠️ 잘틀리는문제</button>
+          <button class="kw-btn" data-kw="고난도"      onclick="toggleKeyword(this)">🔥 고난도</button>
+          <button class="kw-btn" data-kw="창의/사고력"  onclick="toggleKeyword(this)">💡 창의/사고력</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="result-info" id="result-info"></div>
+  <div class="grid" id="cardGrid"></div>
+</div>
+
+<!-- ── 유사문제 팝업 ── -->
+<div class="similar-overlay" id="similarOverlay" onclick="closeSimilar(event)">
+  <div class="similar-popup">
+    <div class="similar-popup-head">
+      <div>
+        <h3>🔗 유사문제</h3>
+        <p id="similar-popup-desc">원문제와 유사한 문제 목록</p>
+      </div>
+      <button class="similar-close" onclick="closeSimilarDirect()">✕</button>
+    </div>
+    <div class="similar-popup-body">
+      <div class="origin-preview" id="origin-preview">
+        <img id="origin-img" src="" alt="원문제" />
+        <div class="origin-preview-info">
+          <div class="label">원문제</div>
+          <div class="val" id="origin-info"></div>
+        </div>
+      </div>
+      <div class="similar-grid" id="similarGrid"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ── 이미지 확대 모달 ── -->
+<div class="img-modal" id="imgModal">
+  <div class="img-modal-inner">
+    <button class="img-modal-close" onclick="closeImgModal()">닫기 ✕</button>
+    <img id="imgModalSrc" src="" alt="확대 이미지" />
+  </div>
+</div>
+
+<!-- 저장 토스트 -->
+<div class="toast" id="toast"></div>
+
+<script>
+// ── 유틸 ──
+
+// ★ 수정 1: fixImagePath 함수 - 구글 드라이브 연동
+function fixImagePath(item, fieldName) {
+  // item이 문자열이면 기존 방식 (solution_image 등 fallback)
+  const p = (typeof item === "string") ? item : (item && item[fieldName]) ? item[fieldName] : "";
+  // drive_file_id가 있으면 구글 드라이브 썸네일 URL 사용
+  if (typeof item === "object" && item && item.drive_file_id && fieldName === "question_image") {
+    return `https://drive.google.com/thumbnail?id=${item.drive_file_id}&sz=w800`;
+  }
+  // 없으면 기존 로컬 경로 사용 (fallback)
+  if (!p) return "";
+  if (p.includes("output_crops")) return p;
+  return p.replace(/^([^/]+)\/images\//, "$1/output_crops/images/");
+}
+
+function showToast(msg, isError=false) {
+  const t = document.getElementById("toast");
+  t.textContent = msg;
+  t.style.background = isError ? "#c04f4f" : "#4a3550";
+  t.classList.add("show");
+  setTimeout(() => t.classList.remove("show"), 2200);
+}
+function openImgModal(src) {
+  document.getElementById("imgModalSrc").src = src;
+  document.getElementById("imgModal").classList.add("open");
+}
+function closeImgModal() {
+  document.getElementById("imgModal").classList.remove("open");
+  document.getElementById("imgModalSrc").src = "";
+}
+
+// ── 데이터 ──
+let DATA = [];
+let AI_FILTERED_IDS = null;
+
+async function loadData() {
+  try {
+    const res = await fetch('./cards_data.json');
+    DATA = await res.json();
+  } catch { DATA = []; }
+  document.getElementById("stat-total").textContent = DATA.length;
+  document.getElementById("stat-books").textContent = new Set(DATA.map(d => d.book)).size;
+  initFilters();
+  applyFilters();
+}
+
+// ── 필터 ──
+function unique(arr) { return [...new Set(arr.filter(Boolean))].sort(); }
+
+let ACTIVE_KEYWORD = null;
+
+function toggleKeyword(btn) {
+  const kw = btn.getAttribute("data-kw");
+  if (ACTIVE_KEYWORD === kw) {
+    ACTIVE_KEYWORD = null;
+    document.querySelectorAll(".kw-btn").forEach(b => b.classList.remove("active"));
+  } else {
+    ACTIVE_KEYWORD = kw;
+    document.querySelectorAll(".kw-btn").forEach(b => {
+      b.classList.toggle("active", b.getAttribute("data-kw") === kw);
+    });
+  }
+  applyFilters();
+}
+
+function getFilteredBase() {
+  const book = document.getElementById("f-book").value;
+  return book ? DATA.filter(d => d.book === book) : DATA;
+}
+
+function initFilters() {
+  const populate = (id, values) => {
+    const el = document.getElementById(id);
+    const cur = el.value;
+    el.innerHTML = `<option value="">전체</option>`;
+    values.forEach(v => el.innerHTML += `<option value="${v}">${v}</option>`);
+    if (cur && values.includes(cur)) el.value = cur;
+  };
+  const base = getFilteredBase();
+  populate("f-book",    unique(DATA.map(d => d.book)));
+  populate("f-course",  unique(base.map(d => d.course)));
+  populate("f-chapter", unique(base.map(d => d.chapter)));
+  populate("f-sub",     unique(base.map(d => d.sub_chapter)));
+  populate("f-diff",    unique(base.map(d => d.difficulty).filter(d => d)));
+  populate("f-type",    unique(base.flatMap(d => d.type_tags || [])));
+}
+function getFilters() {
+  return {
+    book:    document.getElementById("f-book").value,
+    course:  document.getElementById("f-course").value,
+    chapter: document.getElementById("f-chapter").value,
+    sub:     document.getElementById("f-sub").value,
+    type:    document.getElementById("f-type").value,
+    diff:    document.getElementById("f-diff").value,
+  };
+}
+function applyFilters() {
+  const f = getFilters();
+  const result = DATA.filter(d => {
+    if (AI_FILTERED_IDS && !AI_FILTERED_IDS.has(d.id)) return false;
+    if (f.book    && d.book !== f.book)                 return false;
+    if (f.course  && d.course !== f.course)             return false;
+    if (f.chapter && d.chapter !== f.chapter)           return false;
+    if (f.sub     && d.sub_chapter !== f.sub)           return false;
+    if (f.diff    && d.difficulty !== f.diff)           return false;
+    if (f.type    && !(d.type_tags||[]).includes(f.type)) return false;
+    if (ACTIVE_KEYWORD && !(d.keywords||[]).includes(ACTIVE_KEYWORD)) return false;
+    return true;
+  });
+  renderCards(result);
+}
+function resetFilters() {
+  ["f-book","f-course","f-chapter","f-sub","f-type","f-diff"]
+    .forEach(id => { document.getElementById(id).value = ""; });
+  ACTIVE_KEYWORD = null;
+  document.querySelectorAll(".kw-btn").forEach(b => b.classList.remove("active"));
+  applyFilters();
+}
+document.getElementById("f-book").addEventListener("change", () => {
+  document.getElementById("f-type").value = "";
+  initFilters();
+  applyFilters();
+});
+["f-course","f-chapter","f-sub","f-type","f-diff"]
+  .forEach(id => document.getElementById(id).addEventListener("change", applyFilters));
+
+
+// ── 정답/해설 토글 ──
+function togglePanel(panelId) {
+  const panel = document.getElementById(panelId);
+  panel.classList.toggle("open");
+}
+
+// ── 유사문제 팝업 ──
+function openSimilar(originId) {
+  const origin = DATA.find(d => d.id === originId);
+  if (!origin) return;
+
+  // ★ 수정 3: 원문제 미리보기 이미지 - 구글 드라이브 연동
+  document.getElementById("origin-img").src = fixImagePath(origin, 'question_image');
+  document.getElementById("origin-info").textContent =
+    `${origin.book}  |  ${origin.sub_chapter || origin.chapter}`;
+
+  const similars = origin.similar || [];
+  document.getElementById("similar-popup-desc").textContent =
+    similars.length > 0 ? `유사문제 ${similars.length}개` : "아직 연결된 유사문제가 없습니다";
+
+  const grid = document.getElementById("similarGrid");
+  grid.innerHTML = "";
+
+  if (similars.length === 0) {
+    grid.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:40px; color:var(--text-muted); font-size:14px;">
+      🔗 유사문제가 아직 연결되지 않았습니다.<br><span style="font-size:12px; margin-top:6px; display:block;">데이터 보강 후 자동으로 표시됩니다.</span>
+    </div>`;
+  } else {
+    similars.forEach(s => {
+      const simCard = DATA.find(d => d.id === s.id);
+      if (!simCard) return;
+      const similarity = s.similarity ? `${s.similarity}%` : null;
+      grid.appendChild(buildCard(simCard, true, similarity));
+    });
+  }
+
+  document.getElementById("similarOverlay").classList.add("open");
+  document.body.style.overflow = "hidden";
+}
+function closeSimilar(e) {
+  if (e.target === document.getElementById("similarOverlay")) closeSimilarDirect();
+}
+function closeSimilarDirect() {
+  document.getElementById("similarOverlay").classList.remove("open");
+  document.body.style.overflow = "";
+}
+
+// ── 카드 생성 함수 ──
+function buildCard(item, isMini=false, similarity=null) {
+  const escapedId = item.id.replace(/'/g, "\\'");
+  const uid     = item.id.replace(/[^a-zA-Z0-9가-힣]/g, "_");
+
+  const typePill = (item.type_tags||[]).length > 0
+    ? `<span class="type-tag">${(item.type_tags||[]).join(", ")}</span>`
+    : `<span class="type-tag" style="color:var(--text-muted);background:#f1f0f3;">유형 미입력</span>`;
+  const diffPill = item.difficulty
+    ? `<span class="diff-tag">${item.difficulty}</span>` : "";
+  const simBadge = similarity
+    ? `<span class="similarity-badge">유사도 ${similarity}</span>` : "";
+
+  const answerContent = item.answer
+    ? `<div class="expand-text">${item.answer}</div>`
+    : `<span class="empty-text">미입력</span>`;
+  let solutionContent = "";
+  if (item.solution) solutionContent += `<div class="expand-text">${item.solution}</div>`;
+  if (item.solution_image) solutionContent += `<img class="expand-img" src="${fixImagePath(item.solution_image, 'solution_image')}" onclick="openImgModal(this.src)" />`;
+  if (!item.solution && !item.solution_image) solutionContent = `<span class="empty-text">미입력</span>`;
+
+  const card = document.createElement("article");
+  card.className = `card${isMini ? " mini-card" : ""}`;
+
+  const KW_ORDER = ["대표문제", "서술형", "잘틀리는문제", "고난도", "창의/사고력"];
+  const kwBadges = [...(item.keywords||[])]
+    .sort((a, b) => {
+      const ai = KW_ORDER.indexOf(a); const bi = KW_ORDER.indexOf(b);
+      return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+    })
+    .map(kw => {
+      const cls = kw.replace(/\//g,'').replace(/\s/g,'');
+      return `<span class="kw-badge kw-badge-${cls}">${kw}</span>`;
+    }).join('');
+
+  card.innerHTML = `
+    <div class="card-row1">
+      <span class="card-subchapter">${item.sub_chapter || item.chapter || ''}</span>
+      <div style="display:flex;gap:5px;align-items:center;">
+        ${simBadge}
+        <span class="book-pill book-${(item.book||'').replace(/\s/g,'')}">${item.book||''}</span>
+      </div>
+    </div>
+    ${kwBadges ? `<div class="kw-badges">${kwBadges}</div>` : ''}
+    ${(typePill || diffPill) ? `<div class="card-row2">${typePill}${diffPill}</div>` : ''}
+    <div class="card-img-wrap">
+      <div class="card-img-label">문제 <span>클릭하면 확대</span></div>
+      <img class="question-image" src="${fixImagePath(item, 'question_image')}"
+        alt="${item.id}" onclick="openImgModal(this.src)" />
+    </div>
+    <div class="card-btns">
+      <button class="card-btn btn-answer" onclick="togglePanel('ans-${uid}')">✅ 정답</button>
+      <div class="expand-panel" id="ans-${uid}">
+        <div class="expand-inner">${answerContent}</div>
+      </div>
+      <button class="card-btn btn-solution" onclick="togglePanel('sol-${uid}')">🔍 해설</button>
+      <div class="expand-panel" id="sol-${uid}">
+        <div class="expand-inner">${solutionContent}</div>
+      </div>
+      <button class="card-btn btn-similar" onclick="openSimilar('${escapedId}')">🔗 유사문제 찾기</button>
+    </div>`;
+
+  return card;
+}
+
+// ── 카드 렌더링 ──
+function renderCards(items) {
+  const grid = document.getElementById("cardGrid");
+  const info = document.getElementById("result-info");
+  const aiActive = AI_FILTERED_IDS !== null;
+  info.innerHTML = aiActive
+    ? `AI 검색 결과 <b>${items.length}개</b> 문제`
+    : `총 <b>${items.length}개</b> 문제`;
+  grid.innerHTML = "";
+  if (!items.length) {
+    grid.innerHTML = `<div class="empty-state">조건에 맞는 문제가 없습니다.</div>`;
+    return;
+  }
+  const fragment = document.createDocumentFragment();
+  items.forEach(item => fragment.appendChild(buildCard(item)));
+  grid.appendChild(fragment);
+}
+
+// ── AI 검색 ──
+function setExample(el) { document.getElementById("ai-input").value = el.textContent.trim(); aiSearch(); }
+async function aiSearch() {
+  const query = document.getElementById("ai-input").value.trim();
+  if (!query) return;
+  const btn = document.getElementById("ai-btn");
+  const box = document.getElementById("ai-result-box");
+  const txt = document.getElementById("ai-result-text");
+  btn.disabled = true; btn.textContent = "검색 중...";
+  box.className = "ai-result-box visible";
+  txt.innerHTML = `<div class="ai-thinking">분석 중 <div class="dots"><span></span><span></span><span></span></div></div>`;
+  const summary = DATA.map(d => ({ id:d.id, book:d.book, chapter:d.sub_chapter||d.chapter, type_tags:d.type_tags||[], difficulty:d.difficulty||"", question_type:d.question_type||"" }));
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method:"POST", headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({ model:"claude-sonnet-4-20250514", max_tokens:1000,
+        messages:[{ role:"user", content:`수학 문제은행 검색 도우미입니다. 아래 문제 목록에서 검색어에 맞는 문제 ID만 JSON 배열로 반환하세요. 설명 없이 JSON 배열만 반환하세요.\n\n검색어: "${query}"\n\n문제 목록:\n${JSON.stringify(summary)}` }]
+      })
+    });
+    const data = await res.json();
+    const raw = data.content?.[0]?.text || "[]";
+    const ids = JSON.parse(raw.replace(/```json|```/g,"").trim());
+    if (!Array.isArray(ids) || ids.length === 0) {
+      txt.innerHTML = `검색 결과가 없습니다: <b>"${query}"</b>`;
+      AI_FILTERED_IDS = new Set();
+      document.getElementById("ai-banner").className = "ai-banner";
+    } else {
+      AI_FILTERED_IDS = new Set(ids);
+      txt.innerHTML = `✅ <b>"${query}"</b> — <b>${ids.length}개</b> 문제 검색됨`;
+      document.getElementById("ai-banner").className = "ai-banner visible";
+      document.getElementById("ai-banner-text").textContent = `AI 검색: "${query}" — ${ids.length}개 결과`;
+    }
+  } catch(err) {
+    txt.innerHTML = `오류가 발생했습니다: ${err.message}`;
+    AI_FILTERED_IDS = null;
+  }
+  btn.disabled = false; btn.textContent = "🔍 검색";
+  applyFilters();
+}
+function clearAiSearch() {
+  AI_FILTERED_IDS = null;
+  document.getElementById("ai-input").value = "";
+  document.getElementById("ai-result-box").className = "ai-result-box";
+  document.getElementById("ai-banner").className = "ai-banner";
+  applyFilters();
+}
+
+// ── 키보드 ESC 닫기 ──
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") {
+    closeImgModal();
+    closeSimilarDirect();
+  }
+});
+
+loadData();
+</script>
+</body>
+</html>
