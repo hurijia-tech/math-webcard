@@ -344,8 +344,7 @@
     "similar": [],
     "drive_file_id": "1jOJ-W1bazi8uYTwq4ImRtq3w6muQh6wJ",
     "keywords": [
-      "대표문제",
-      "서술형"
+      "대표문제"
     ]
   },
   {
@@ -1027,8 +1026,7 @@
     "similar": [],
     "drive_file_id": "1FzGzV3Px_ALnFGGeeRT1JYplgkHYyu4m",
     "keywords": [
-      "대표문제",
-      "잘틀리는문제"
+      "대표문제"
     ]
   },
   {
@@ -1194,8 +1192,7 @@
     "similar": [],
     "drive_file_id": "1yNsFWWz38UKpNA_U2iUacIoEZ-YwlLEK",
     "keywords": [
-      "창의/사고력",
-      "대표문제"
+      "창의/사고력"
     ]
   },
   {
@@ -1279,8 +1276,7 @@
     "similar": [],
     "drive_file_id": "1EohWgE2MrfGdk-JIY8VloNFcg6ml58dr",
     "keywords": [
-      "서술형",
-      "대표문제"
+      "서술형"
     ]
   },
   {
@@ -1325,8 +1321,7 @@
     "similar": [],
     "drive_file_id": "1_HHK8n8bvdDku-BLXHYsR-aJnwshDqae",
     "keywords": [
-      "잘틀리는문제",
-      "서술형"
+      "잘틀리는문제"
     ]
   },
   {
@@ -1415,8 +1410,7 @@
     "similar": [],
     "drive_file_id": "1dxpXP-yK0-TdmwJJz7X5H5GTBGcqGESE",
     "keywords": [
-      "잘틀리는문제",
-      "대표문제"
+      "잘틀리는문제"
     ]
   },
   {
@@ -1692,8 +1686,7 @@
     "similar": [],
     "drive_file_id": "1s6jBKLQpb8osT-Hag8GuEp1J4qVwS99n",
     "keywords": [
-      "대표문제",
-      "서술형"
+      "대표문제"
     ]
   },
   {
@@ -1863,8 +1856,7 @@
     "similar": [],
     "drive_file_id": "1t9AFBcoqTCGidbg0Obk9cDLDRGdxY6-n",
     "keywords": [
-      "대표문제",
-      "잘틀리는문제"
+      "대표문제"
     ]
   },
   {
@@ -4389,7 +4381,6 @@
     "similar": [],
     "drive_file_id": "1OwqL6rSrz2IJBgDw_ORc0pGBLHzIEP-I",
     "keywords": [
-      "대표문제",
       "서술형"
     ]
   },
@@ -5072,7 +5063,6 @@
     "similar": [],
     "drive_file_id": "1WSwyk_XVjg2z6hDH7xrRyc4AcMh5xj-t",
     "keywords": [
-      "대표문제",
       "잘틀리는문제"
     ]
   },
@@ -5117,7 +5107,6 @@
     "similar": [],
     "drive_file_id": "1hO5AV1CvyVoPNOvzAwXF3CsI163wyJ9U",
     "keywords": [
-      "창의/사고력",
       "대표문제"
     ]
   },
@@ -5202,7 +5191,6 @@
     "similar": [],
     "drive_file_id": "1C-W-TVduJHbmdid9NDYiukKRuKfB9xH8",
     "keywords": [
-      "서술형",
       "대표문제"
     ]
   },
@@ -5248,7 +5236,6 @@
     "similar": [],
     "drive_file_id": "1z7z7W22L9u29fbnsl5rTAT7JKSXKG0i3",
     "keywords": [
-      "잘틀리는문제",
       "서술형"
     ]
   },
@@ -5338,7 +5325,6 @@
     "similar": [],
     "drive_file_id": "10YDG5jwSA-nLffcjSoxcihGqTaybcbLc",
     "keywords": [
-      "잘틀리는문제",
       "대표문제"
     ]
   },
@@ -5615,7 +5601,6 @@
     "similar": [],
     "drive_file_id": "1G0DnS3eYQAfvN0idBpZnxAkTHIwFpeip",
     "keywords": [
-      "대표문제",
       "서술형"
     ]
   },
@@ -5786,7 +5771,6 @@
     "similar": [],
     "drive_file_id": "1o7vFaySNrPr5j1i17ZFlc07V6VHmk-ZU",
     "keywords": [
-      "대표문제",
       "잘틀리는문제"
     ]
   },
@@ -5937,5 +5921,245 @@
     "keywords": [
       "창의/사고력"
     ]
+  },
+  {
+    "id": "바이블_1270",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형02. 이등변삼각형의 성질 ⑴ – 각의 크기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p242_q1270.png",
+    "drive_file_id": "1N5p06YMgG3QGUYXGbszkof9-nV2s9-5P",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1271",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형03. 이등변삼각형의 성질 ⑴ – 이웃한 이등변삼각형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p242_q1271.png",
+    "drive_file_id": "1PDIpVqdOyl3NSyo_TEA5eBTE2ZpWUOJa",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1272",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p242_q1272.png",
+    "drive_file_id": "1-3YKCgnixwj2gDISaHlOTXj9bKtD7Kr7",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1273",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형04. 이등변삼각형의 성질 ⑴ – 각의 이등분선"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p242_q1273.png",
+    "drive_file_id": "1Zih6copx0m3WXatt5-JM_PK4O1lHsAge",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1274",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형05. 이등변삼각형의 성질 ⑴ – 여러 가지 도형"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p242_q1274.png",
+    "drive_file_id": "1bxCRpx-kuSqPYHjuQumcOCiiX49lgayt",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1275",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형07. 이등변삼각형이 되는 조건"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p242_q1275.png",
+    "drive_file_id": "1ag5Hytjn0-yrxxCxNrmJxBiPVYrTb33Z",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1276",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "발전유형09. 이등변삼각형 모양의 종이접기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p243_q1276.png",
+    "drive_file_id": "1yMt1v_k6wvP1UeXljPpCZoWnPsjFBdRm",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1277",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "발전유형10. 합동인 삼각형을 찾아 각의 크기 구하기"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p243_q1277.png",
+    "drive_file_id": "12N1dBuI92sxIfwV4AelficVlyAGD-y4d",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1278",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형12. 직각삼각형의 합동 조건의 응용 – RHA 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p243_q1278.png",
+    "drive_file_id": "15KJ_LOESLy2l32oEeD0GK1YKChMz1wM2",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1279",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p243_q1279.png",
+    "drive_file_id": "1Cma9tgGH1Xuv2GTMngIVwRMjxj5W89xf",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1280",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형13. 직각삼각형의 합동 조건의 응용 – RHS 합동"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p243_q1280.png",
+    "drive_file_id": "17uMGEZtLyIUe3TagYs4dC_GhxIF3iWNy",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
+  },
+  {
+    "id": "바이블_1281",
+    "book": "바이블",
+    "course": "중등수학 2-2",
+    "chapter": "Ⅰ. 삼각형의 성질",
+    "sub_chapter": "01. 삼각형의 성질(1)",
+    "type_tags": [
+      "유형15. 각의 이등분선의 성질의 응용"
+    ],
+    "difficulty": "",
+    "question_image": "바이블/output_crops/images/p243_q1281.png",
+    "drive_file_id": "1brQVzSLFMf5SAUfI2zpljYCTOC0cBw7Q",
+    "answer": "",
+    "solution": "",
+    "solution_image": "",
+    "keywords": [
+      "고난도"
+    ],
+    "similar": []
   }
 ]
