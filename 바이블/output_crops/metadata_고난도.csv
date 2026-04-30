@@ -1,0 +1,13 @@
+﻿page,question_id,column,x0,y0,x1,y1,image_path
+1,1270,0,18,94.36,315.15,344.8,output_crops\images\p242_q1270.png
+1,1271,0,18,342.8,315.15,561.24,output_crops\images\p242_q1271.png
+1,1272,0,18,559.24,315.15,816.73,output_crops\images\p242_q1272.png
+1,1273,1,331.15,80.18,628.3,340.68,output_crops\images\p242_q1273.png
+1,1274,1,331.15,338.68,628.3,551.18,output_crops\images\p242_q1274.png
+1,1275,1,331.15,549.18,628.3,816.73,output_crops\images\p242_q1275.png
+2,1276,0,18,80.18,315.15,311.37,output_crops\images\p243_q1276.png
+2,1277,0,18,309.37,315.15,547.5,output_crops\images\p243_q1277.png
+2,1278,0,18,545.5,315.15,816.73,output_crops\images\p243_q1278.png
+2,1279,1,331.15,80.18,628.3,309.68,output_crops\images\p243_q1279.png
+2,1280,1,331.15,307.68,628.3,553.83,output_crops\images\p243_q1280.png
+2,1281,1,331.15,551.83,628.3,816.73,output_crops\images\p243_q1281.png
